@@ -1,1 +1,1 @@
-1008569/1566516 (64.38%) — all 40 install archives covered; 11 archives newly filelisted via content-path extraction (Sep 13 2026)
+956125/1502018 (63%)
