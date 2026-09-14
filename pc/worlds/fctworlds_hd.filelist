@@ -1,4 +1,4 @@
-; 3894/3920 (99%)
+; 3908/3920 (99%)
 ; 283 not in parent
 graphics\_common\_textures\fx\fc_vfx_rainbow.xbt
 graphics\_common\_textures\vehicles\shared\tire01_n_mips.xbt
@@ -288,12 +288,20 @@ graphics\_tetra_pl_lem0010\world\_textures\manmadeshared\food\lem0010_tortillas_
 graphics\_tetra_pl_lem0010\world\_textures\manmadespecific\objects\branding\branding_storefront_kit_01_h.xbt
 graphics\_tetra_pl_lem0010\world\_textures\manmadespecific\objects\decal_spilledsalsa_01_pl\decal_spilledsalsa_01_a_mips.xbt
 graphics\_tetra_pl_lem0010\world\_textures\manmadespecific\objects\decal_spilledsalsa_01_pl\decal_spilledsalsa_01_a.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_cardboard_slime_01_b.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_cardboard_slime_01_n.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_b_mips.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_b.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_mat_mips.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_mat.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_n_mips.xbt
 graphics\_tetra_pl_lem0020\cinematic\textures\cin_detonator_02_n.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_slug_01_b.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_slug_01_n.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_tennisball_01_b.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_tennisball_01_n.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_tennisball_02_b.xbt
+graphics\_tetra_pl_lem0020\cinematic\textures\cin_tennisball_02_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\debug\dlc_memory_texture_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\debug\dlc_memory_texture_01_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\debug\dlc_memory_texture_02_n_mips.xbt
@@ -306,6 +314,7 @@ graphics\_tetra_pl_lem0020\world\_textures\manmadeshared\scratches\deadbody_lem0
 graphics\_tetra_pl_lem0020\world\_textures\manmadeshared\scratches\deadbody_lem0020_scratches_b.xbt
 graphics\_tetra_pl_lem0020\world\_textures\manmadeshared\scratches\deadbody_lem0020_scratches_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\manmadeshared\scratches\deadbody_lem0020_scratches_n.xbt
+graphics\_tetra_pl_lem0020\world\_textures\manmadespecific\objects\natural\bodies\deadbody_lem0020_guerrilla_missingarm_01_sratches_pl_um.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\grunge\grunge_fungalgrowth_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\grunge\grunge_fungalgrowth_01_b.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\slime\generic_slime_kit_01_b_mips.xbt
@@ -321,18 +330,22 @@ graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_cardbo
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_cardboardcutout_01_pl_b.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_collector_atlas_01_pl_b_mips.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_collector_atlas_01_pl_b.xbt
+graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_rambo_banner_backboard_01_h.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_sad_atlas_01_pl_b_mips.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_sad_atlas_01_pl_b.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_shared_atlas_01_pl_b_mips.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_shared_atlas_01_pl_b.xbt
+graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\branding\lem0030_shared_atlas_02_pl_b.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\colour\emissiveblinklong_01_pl_m.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\fabric\fabric_painted_01_n_mips.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\fabric\fabric_painted_01_n.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\paper\cardboard_edge_01_b.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\paper\cardboard_edge_01_n.xbt
+graphics\_tetra_pl_lem0030\world\_textures\manmadeshared\paper\posterpaper_01_n.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\backboard_wood_01_pl\backboard_wood_01_pl_um.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\arcademachine_pl_01\arcademachine_pl_01_um.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\backboard_wood_02_pl\backboard_wood_02_pl_um.xbt
+graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\bust_01_pl\bust_01_pl_b.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\bust_01_pl\bust_01_pl_um.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\bust_02_pl\bust_02_pl_b_mips.xbt
 graphics\_tetra_pl_lem0030\world\_textures\manmadespecific\objects\bust_02_pl\bust_02_pl_b.xbt
@@ -1832,6 +1845,7 @@ graphics\world\_textures\manmadeshared\concretes\cement_mortar_01\cement_mortar_
 graphics\world\_textures\manmadeshared\concretes\cement_mortar_01\cement_mortar_01_d.xbt
 graphics\world\_textures\manmadeshared\concretes\cement_mortar_01\cement_mortar_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\concretes\cement_mortar_01\cement_mortar_01_n.xbt
+graphics\world\_textures\manmadeshared\concretes\concrete_leaking_01\concrete_leaking_01_n.xbt
 graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_med_02\decal_blood_splatter_med_02_d_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_med_02\decal_blood_splatter_med_02_d.xbt
 graphics\world\_textures\manmadeshared\decals\decal_collection_atlas_01\decal_collection_atlas_01_b_mips.xbt

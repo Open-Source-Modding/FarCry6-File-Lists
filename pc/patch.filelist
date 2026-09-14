@@ -1,4 +1,4 @@
-; 482/1101 (43%)
+; 483/1101 (43%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_defaultremappings.xml
 common_depload.dat
@@ -316,6 +316,7 @@ graphics\_materials\mletendre-m-2015111359401165.material.bin
 graphics\_materials\xlin2-m-20190816130435.material.bin
 graphics\patterns\pattern_tropical.xbt
 graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\buggy_signature_01_exterior_mips.xbt
+graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\buggy_signature_01_exterior.xbt
 graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\veh_buggy_signature_01_masks_exterior_m_m_mips.xbt
 graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\veh_buggy_signature_01_masks_exterior_m_m.xbt
 graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\veh_buggy_signature_01_masks_interior_m_m_mips.xbt
