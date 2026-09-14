@@ -1,4 +1,4 @@
-; 60736/66041 (91%)
+; 60743/66041 (91%)
 animations\ai\pose\ai_death_pose_indoctrinee01.mab
 animations\ai\pose\ai_death_pose_indoctrinee02.mab
 animations\assaults\gp_freezer\gp_freezer_opening_01.mab
@@ -47572,6 +47572,7 @@ graphics\biomes\vegetation\trees\eucalyptus\breakable\bio_tr_eucalyptus_25m_01_b
 graphics\biomes\vegetation\trees\eucalyptus\breakable\bio_tr_eucalyptus_25m_01_breakable_pt3.xbg
 graphics\biomes\vegetation\trees\eucalyptus\clusters\cl_eucalyptus_01.xbg
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_10m_02_d.xbt
+graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_10m_02_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_10m_02_ldz.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_10m_02_m.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_10m_02_n.xbt
@@ -47589,16 +47590,19 @@ graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_25m_01_n
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_25m_01_tv.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_d.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_epiphytes_tv.xbt
+graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_ldz.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_m.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_n.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_30m_01_tv.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_d.xbt
+graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_ldz.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_m.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_n.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_01_tv.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_02_d.xbt
+graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_02_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_02_ldz.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_02_m.xbt
 graphics\biomes\vegetation\trees\eucalyptus\impostors\bio_tr_eucalyptus_40m_02_n.xbt
@@ -47739,16 +47743,19 @@ graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_14m_
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_14m_01_n.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_14m_01_tv.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_d.xbt
+graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_ldz.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_m.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_n.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_01_tv.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_d.xbt
+graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_ldz.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_m.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_n.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_02_tv.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_03_d.xbt
+graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_03_impostor.nomad.fcb
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_03_ldz.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_03_m.xbt
 graphics\biomes\vegetation\trees\stranglerfig\impostors\bio_tr_stranglerfig_20m_03_n.xbt

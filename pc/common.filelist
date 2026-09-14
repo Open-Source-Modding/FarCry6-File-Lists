@@ -1,4 +1,4 @@
-; 12068/19794 (60%)
+; 12069/19794 (60%)
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
 actionmaps\hid_bindings.xml
@@ -4286,6 +4286,7 @@ ui\tetra\textures\credits\ubisoftlogos\ubisoft_shanghai_logo.xbt
 ui\tetra\textures\credits\ubisoftlogos\ubisoft_toronto_logo.xbt
 ui\tetra\textures\credits\vaas_logo.xbt
 ui\tetra\textures\credits\y2_dlc_logo.xbt
+ui\tetra\textures\dlcy2\menus\arsenal\tx_flare_prismglow_dlcy2.xbt
 ui\tetra\textures\dlcy2\menus\difficultyselection\tx_difficultyselect_button1_settings_dlcy2.xbt
 ui\tetra\textures\dlcy2\menus\difficultyselection\tx_difficultyselect_button2_settings_dlcy2.xbt
 ui\tetra\textures\dlcy2\menus\difficultyselection\tx_difficultyselect_button3_settings_dlcy2.xbt

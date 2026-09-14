@@ -1,4 +1,4 @@
-; 15354/46282 (33%)
+; 15355/46282 (33%)
 domino\system\ai\encounterproximitylistener_v2.lua
 entityarchetypeslibrary\7805518115033.ark.fcb
 entityarchetypeslibrary\7806187896437.ark.fcb
@@ -2578,6 +2578,7 @@ graphics\_materials\kzhang3-m-20170606162821.material.bin
 graphics\_materials\kzhang3-m-20170606174144.material.bin
 graphics\_materials\kzhang3-m-20170606181642.material.bin
 graphics\_materials\kzhang3-m-20170710151416.material.bin
+graphics\_materials\kzhang3-m-20170710170538.material.bin
 graphics\_materials\kzhang3-m-20170711104528.material.bin
 graphics\_materials\kzhang3-m-20170713111351.material.bin
 graphics\_materials\kzhang3-m-20170713123532.material.bin
