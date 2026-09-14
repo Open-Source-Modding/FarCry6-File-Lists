@@ -1,4 +1,4 @@
-; 483/1101 (43%)
+; 486/1101 (44%)
 actionmaps\hid_bindings.xml
 actionmaps\hid_defaultremappings.xml
 common_depload.dat
@@ -103,6 +103,7 @@ entityarchetypeslibrary\9015420961829565.ark.fcb
 entityarchetypeslibrary\9015420961865364.ark.fcb
 entityarchetypeslibrary\9015420961966569.ark.fcb
 entityarchetypeslibrary\9015423752668937.ark.fcb
+entityarchetypeslibrary\9015424743689463.ark.fcb
 entityarchetypeslibrary\9015425127539039.ark.fcb
 entityarchetypeslibrary\9015425253072738.ark.fcb
 entityarchetypeslibrary\9015430629440173.ark.fcb
@@ -482,3 +483,5 @@ sequences\fc6_main\fc6_playerbase\base_upgrades\g1_playerbase_west\g1_playerbase
 sequences\fc6_main\fc6_playerbase\base_upgrades\g1_playerbase_west\g1_playerbase_west_socket_upgrade02.cseq
 soundbinary\soundinfo.bin
 ui\tetra\textures\1newui\hud\specialhuditems\camera\tx_phone_cracks.xbt
+ui\tetra\textures\vehiclemenus\thumbnails\vehicles\veh_coupe_signature_03.xbt
+ui\tetra\textures\vehiclemenus\thumbnails\vehicles\veh_lootticker_coupe_signature_03.xbt
