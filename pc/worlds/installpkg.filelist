@@ -1,4 +1,4 @@
-; 228803/250723 (91%)
+; 228804/250723 (91%)
 activities\fc6_main\fc6_activities\fc6_agenda_activities\fc6_npc_agendas_central.nomad.fcb
 activities\fc6_main\fc6_activities\fc6_checkpointraces\fc6_checkpointraces_central.nomad.fcb
 activities\fc6_main\fc6_activities\fc6_checkpointraces\fc6_checkpointraces_master.nomad.fcb
@@ -204541,6 +204541,7 @@ soundbinary\999050585.bnk
 soundbinary\999128335.bnk
 soundbinary\999642816.wem
 soundbinary\999917826.bnk
+ui\common\fonts\src\benguiatproitc-boldcond.otf
 ui\common\fonts\src\dfg-heiseigothic-w5-large.ttf
 ui\common\fonts\src\dfg-heiseigothic-w5.ttf
 ui\common\fonts\src\dfphei5a-sch-large.ttf

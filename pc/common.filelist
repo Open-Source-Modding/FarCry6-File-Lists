@@ -1,4 +1,4 @@
-; 11937/19794 (60%)
+; 11938/19794 (60%)
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
 actionmaps\hid_bindings.xml
@@ -859,6 +859,7 @@ soundbinary\978204380.bnk
 soundbinary\984847732.bnk
 soundbinary\soundinfo.bin
 soundregions.xml
+ui\common\fonts\src\benguiatproitc-boldcond.otf
 ui\common\fonts\src\dfg-heiseigothic-w5-large.ttf
 ui\common\fonts\src\dfg-heiseigothic-w5.ttf
 ui\common\fonts\src\dfphei5a-sch-large.ttf
