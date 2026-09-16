@@ -1,4 +1,4 @@
-; 929/942 (98%)
+; 942/942 (100%)
 ; 62 not in parent
 graphics\_common\_textures\characters\animals\_trophies\anml_tro_skull_deer_moose_01\anml_tro_skull_deer_moose_01_b_mips.xbt
 graphics\_common\_textures\characters\animals\_trophies\anml_tro_skull_deer_moose_01\anml_tro_skull_deer_moose_01_b.xbt
@@ -70,11 +70,14 @@ graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b_mi
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_um.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b.xbt
@@ -113,6 +116,7 @@ graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchm
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_b.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_m_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_m.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_02\bio_rk_pile_generic_02_m.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_02\bio_rk_pile_generic_02_n_mips.xbt
@@ -162,6 +166,7 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_01\decal_breakable_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_d.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_n.xbt
@@ -272,6 +277,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerru
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_floorold_02_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\woodplank_refrective_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\bridge\belltower_refrective_01_wall_01_m.xbt
@@ -290,6 +296,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\storeshelves_short_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\templerailing_floating_01\templerailing_floating_01_m.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\cave\bio_cave_bridgerootsgrown_01_carbon_b.xbt
@@ -342,6 +349,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_emissive_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_emissive_b.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b.xbt
@@ -357,7 +365,9 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_0
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_02_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_02_um_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_02_um.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_m_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_limestone_large_04_vocanol_m_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_limestone_large_04_vocanol_m.xbt
@@ -386,7 +396,9 @@ graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\stranglerfig\bs_stranglerfig_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\stranglerfig\bs_stranglerfig_b.xbt
@@ -535,6 +547,7 @@ graphics\_tetra_pl_extended\gameplay\_textures\gp_weapon_crate_crystal_01_um_mip
 graphics\_tetra_pl_extended\gameplay\_textures\gp_weapon_crate_crystal_01_um.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b.xbt
+graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b.xbt

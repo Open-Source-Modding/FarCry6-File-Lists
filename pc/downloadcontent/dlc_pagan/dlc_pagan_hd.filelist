@@ -1,4 +1,4 @@
-; 2263/2297 (98%)
+; 2297/2297 (100%)
 ; 143 not in parent
 graphics\_common\_textures\fx\vfx_waterfall_5x5_mips.xbt
 graphics\_common\_textures\fx\vfx_waterfall_5x5.xbt
@@ -30,9 +30,11 @@ graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char554_0
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char554_01_m_n.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char557_01_m_b_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char557_01_m_b.xbt
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char557_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char557_01_m_n.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char560vision_01_m_b_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char560vision_01_m_b.xbt
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char560vision_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_dlc_char560vision_01_m_n.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_shr_averagevision_old_01_m_b_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_shr_averagevision_old_01_m_b.xbt
@@ -251,6 +253,7 @@ graphics\_common\characters\fct\human\shoes\_textures\fct_sho_dlc_char560vision_
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char502vision_01_m_m.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char520vision_01_m_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char520vision_01_m_b.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char520vision_01_m_n_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char520vision_01_m_n.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char521vision_01_f_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char521vision_01_f_b.xbt
@@ -275,6 +278,7 @@ graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_b_m
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_b.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_m_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_m.xbt
+graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_n_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char526_01_f_n.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char527_01a_m_b_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_dlc_char527_01a_m_b.xbt
@@ -346,6 +350,7 @@ graphics\_common\characters\fct\human\wrist\_textures\fct_wst_dlc_char520vision_
 graphics\_common\characters\fct\human\wrist\_textures\fct_wst_dlc_char520vision_01_m_n.xbt
 graphics\_shangrila\_textures\past\shrine\stonewalllarge_01_n_mips.xbt
 graphics\_shangrila\_textures\past\shrine\stonewalllarge_01_n.xbt
+graphics\_singleplayer\_textures\generic\mask\mask_dirt_02_m_mips.xbt
 graphics\_singleplayer\_textures\generic\mask\mask_dirt_02_m.xbt
 graphics\_singleplayer\_textures\thematics\traditional\brickwall_01_n_mips.xbt
 graphics\_singleplayer\_textures\thematics\traditional\brickwall_01_n.xbt
@@ -367,11 +372,14 @@ graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b_mi
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_um.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b.xbt
@@ -449,6 +457,7 @@ graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_f.xbt
 graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_m_mips.xbt
 graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_m.xbt
 graphics\_tetra_dlc_common\gameplay\_texture\interactive\goldengate_golden_color_spraying_n.xbt
+graphics\_tetra_dlc_common\manmade\_textures\mask_dirt_01_tm_mips.xbt
 graphics\_tetra_dlc_common\manmade\_textures\mask_dirt_01_tm.xbt
 graphics\_tetra_dlc_common\manmade\_textures\reimport_branding_products_02_b_mips.xbt
 graphics\_tetra_dlc_common\manmade\_textures\reimport_branding_products_02_b.xbt
@@ -578,6 +587,7 @@ graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_fall_leave
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_fall_leaves_01_n.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_goldrock_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_goldrock_01_b.xbt
+graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_goldrock_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\roads\bio_rd_trail_goldrock_01_n.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_cave_floor_medium_01\bio_cave_floor_medium_01_um_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_cave_floor_medium_01\bio_cave_floor_medium_01_um.xbt
@@ -726,6 +736,7 @@ graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_cover_08\b
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_cover_09\bio_rk_small_cover_09_m_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_cover_09\bio_rk_small_cover_09_m.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_cover_09\bio_rk_small_cover_09_n.xbt
+graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_pebbles_01\bio_rk_small_pebbles_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_rk_small_pebbles_01\bio_rk_small_pebbles_01_n.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_sta_gen_rock_pile_01_underwater_b_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\natural\_textures\rocks\bio_sta_gen_rock_pile_01_underwater_b.xbt
@@ -802,6 +813,7 @@ graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherr
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_b.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_m_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_m.xbt
+graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_n_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_n.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_tilling_b_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\cherryblossom\bio_tr_cherryblossom_bark_tilling_b.xbt
@@ -834,6 +846,7 @@ graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\chirpine\bio_tr_chirpine_l
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\chirpine\bio_tr_chirpine_leaf_n.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\driftwood\bio_sta_gen_driftwood_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\driftwood\bio_sta_gen_driftwood_01_b.xbt
+graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\driftwood\bio_sta_gen_driftwood_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\driftwood\bio_sta_gen_driftwood_01_n.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\hedgebush\bio_bs_hedgebush_b_mips.xbt
 graphics\_tetra_dlc_pagan\biomes\vegetation\_textures\hedgebush\bio_bs_hedgebush_b.xbt
@@ -1122,6 +1135,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01_m.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\floormossdecal_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\prisonfloor_decal_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\decals\prisonfloor_decal_n.xbt
@@ -1198,6 +1212,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadeshared\woods\woodbeam_dark_01_n
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\bobblehead\bobblehead_collectible_01_pagan_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\bobblehead\bobblehead_collectible_01_pagan_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\bobblehead\bobblehead_collectible_01_pagan_mat.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\bobblehead\bobblehead_collectible_01_pagan_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\bobblehead\bobblehead_collectible_01_pagan_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\durgeshprison\firetrap_danger_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\durgeshprison\firetrap_danger_01_n.xbt
@@ -1300,6 +1315,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hangin
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hangingobject_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_02_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\objects\generic\hay_02_b.xbt
@@ -1446,6 +1462,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerru
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_floorold_02_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\towerstair_refrective_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\woodplank_refrective_01_m.xbt
@@ -1470,9 +1487,11 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshpris
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_body_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_body_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_body_m.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_body_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_body_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_cloth_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_cloth_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_cloth_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\prisonmonk_floating_01_cloth_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statue_mat_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statue_mat_n_mips.xbt
@@ -1483,6 +1502,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshpris
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_head_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_lower_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_lower_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_lower_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_lower_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_upper_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuecave_golden_lrg_01_upper_b.xbt
@@ -1552,6 +1572,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshpris
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_rock_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_rock_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_rock_m.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_rock_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_rock_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_upper_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\durgeshprison\statuetreasure_golden_01_upper_m.xbt
@@ -1621,6 +1642,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemp
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_bodybroken_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_headbroken_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_headbroken_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_headbroken_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_headbroken_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuebelt_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuebelt_b.xbt
@@ -1636,6 +1658,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemp
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuehead_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuelower_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuelower_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuelower_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\jalendutemple\paganbuddha_floating_01_statuelower_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\military\radio_refractive_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\military\radio_refractive_01_b.xbt
@@ -1921,15 +1944,19 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagan_lost_01_upper_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagan_memorial_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagan_memorial_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagan_memorial_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagan_memorial_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandad_memorial_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandad_memorial_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandad_memorial_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandad_memorial_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandaughter_memorial_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandaughter_memorial_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandaughter_memorial_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepagandaughter_memorial_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepaganwife_memorial_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepaganwife_memorial_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepaganwife_memorial_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\statuepaganwife_memorial_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\storeshelves_short_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\taperecorder_memorial_01_b_mips.xbt
@@ -1969,6 +1996,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\gatedetail_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\lakshmanamausoleum_religious_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\lakshmanamausoleum_religious_01_um.xbt
@@ -2039,9 +2067,11 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\tamangchorten_sml_01\zipline_hook_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\templerailing_floating_01\templerailing_floating_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\greymask_corruption_tm.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_dirt_01_tm_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_dirt_01_tm.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_dirt_04_tm_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_dirt_04_tm.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_walls_01_m_tm_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\transition mask\mask_walls_01_m_tm.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\royalpalace\statuepaganwife_giant_01_cloth_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\royalpalace\statuepaganwife_giant_01_cloth_b.xbt
@@ -2087,6 +2117,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_coa
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_coastrock_detial_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\terrain\bio_gd_coast_soil_mud_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\terrain\bio_gd_coast_soil_mud_01_n.xbt
@@ -2113,6 +2144,7 @@ graphics\biomes\nature\_textures\decals\generic\bio_dl_generic_grassdry_01_b_mip
 graphics\biomes\nature\_textures\decals\generic\bio_dl_generic_grassdry_01_b.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_rocky_01_d_mips.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_rocky_01_d.xbt
+graphics\biomes\nature\_textures\roads\bio_rd_rocky_01_n_mips.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_rocky_01_n.xbt
 graphics\biomes\nature\_textures\roads\fct\fct_bio_rd_soil_02_b.xbt
 graphics\biomes\nature\_textures\roads\fct\fct_bio_rd_soil_02_n_mips.xbt
@@ -2123,6 +2155,7 @@ graphics\biomes\nature\_textures\rocks\bio_rk_central_sandstone_01_b_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_central_sandstone_01_b.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_limestone_cliff_terrain2_m_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_limestone_cliff_terrain2_m.xbt
+graphics\biomes\nature\_textures\rocks\bio_rk_limestone_detailb_v2_n_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_limestone_detailb_v2_n.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_montain_rock_trmask_m_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_montain_rock_trmask_m.xbt
@@ -2192,6 +2225,7 @@ graphics\world\_textures\manmadeshared\stones\stonewall_jagged_rough_01\stonewal
 graphics\world\_textures\manmadeshared\stones\stonewall_jagged_rough_01\stonewall_jagged_rough_01_n.xbt
 graphics\world\_textures\manmadeshared\transition_mask\distancefield_donotuse\df_metal_mask_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\transition_mask\distancefield_donotuse\df_metal_mask_01_d.xbt
+graphics\world\_textures\manmadeshared\transition_mask\metal_test_red_mips.xbt
 graphics\world\_textures\manmadeshared\transition_mask\metal_test_red.xbt
 graphics\world\_textures\manmadeshared\woods\old_log_wood_01\old_log_wood_01_m_mips.xbt
 graphics\world\_textures\manmadeshared\woods\old_log_wood_01\old_log_wood_01_m.xbt

@@ -1,4 +1,4 @@
-; 1349/1377 (97%)
+; 1377/1377 (100%)
 ; 58 not in parent
 graphics\_common\_textures\fx\fc_vfx_rainbow.xbt
 graphics\_common\characters\fc6\animals\anml_pig_basic\_textures\anml_fc6_pig_basic_domestic\anml_pig_basic_domestic_new_b_mips.xbt
@@ -7,7 +7,9 @@ graphics\_common\characters\fct\human\top\_textures\fct_top_civ_straplessbra_01_
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_straplessbra_01_f_b.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_straplessbra_01_f_n_mips.xbt
 graphics\_common\characters\fct\human\top\_textures\fct_top_civ_straplessbra_01_f_n.xbt
+graphics\_singleplayer\_textures\generic\decals\deadleaves_01_d_mips.xbt
 graphics\_singleplayer\_textures\generic\decals\deadleaves_01_d.xbt
+graphics\_singleplayer\_textures\generic\decals\deadleaves_01_n_mips.xbt
 graphics\_singleplayer\_textures\generic\decals\deadleaves_01_n.xbt
 graphics\_tetra_dlc_common\biomes\vegetation\_textures\grass\bio_gr_gen_grass_01_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\vegetation\_textures\grass\bio_gr_gen_grass_01_b.xbt
@@ -452,6 +454,7 @@ graphics\gameplay\_textures\_collectible\loot\containers\gp_lootcont_2p_wooden_c
 graphics\gameplay\_textures\_gameplayobjects\explosive\propanetanklarge_01\propanetanklarge_01_um.xbt
 graphics\gameplay\_textures\_gameplayobjects\interactive\gp_climbledge_concretebeam_01\gp_climbledge_concretebeam_01_um.xbt
 graphics\gameplay\_textures\_gameplayobjects\interactive\gp_fireworks_01_mis6200\gp_fireworks_01_mis6200_um.xbt
+graphics\gameplay\_textures\_gameplayobjects\living world\gp_weather_vane_01\gp_weather_vane_01_um.xbt
 graphics\gameplay\_textures\_gameplayobjects\navigation\doors\gp_door_wooden_house_extralarge_01\gp_door_wooden_house_extralarge_01_um.xbt
 graphics\interactive\_textures\gp_electricsensor_01\gp_electricsensor_01_d.xbt
 graphics\interactive\_textures\gp_electricsensor_01\gp_electricsensor_01_n.xbt
@@ -488,9 +491,11 @@ graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\freezer_02\gp_freez
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\freezer_02\gp_freezer_02_uniqueparts_mat.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\freezer_02\gp_freezer_02_uniqueparts_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\gameplay\freezer_02\gp_freezer_02_uniqueparts_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\kingdom_graffiti_01_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\kingdom_graffiti_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\kingdom_park_sign_02_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\park_information_panel_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\postcard_dinopark_01_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\postcard_dinopark_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\postcard_dinopark_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\branding\statue_malagua_top_01_red_splash_paint_um.xbt
@@ -500,6 +505,7 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\human\corpse
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\human\corpses\bodypart_leg_right_01\bodypart_leg_right_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\human\corpses\bodypart_leg_right_01\bodypart_leg_right_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\human\corpses\bodypart_leg_right_01\bodypart_leg_right_01_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\military\tool\military_moving_target_02_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\sign\kingdom_sign_arrow_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\sign\sign_aslt01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmade\objects\sign\sign_board_01_um.xbt
@@ -509,14 +515,20 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\bran
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt02_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt02_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt03_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt03_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt04_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt04_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt05_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt05_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt06_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\diegeticmaps\diegeticmap_aslt06_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\kingdom_flag_01_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\kingdom_flag_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\mansion_croco_crocsign_n.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\sign_billboard_medium_01_auction_01_a_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\sign_billboard_medium_01_auction_01_a.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\sign_billboard_medium_01_auction_02_h_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\sign_billboard_medium_01_auction_02_h.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\branding\sign_marketplace_fish_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\branding\malagua_entrance_sign_01\malagua_entrance_sign_01_um.xbt
@@ -555,14 +567,19 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\comm
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\supplies\opiumstack_01\opiumstack_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\taxidermy\carpet_zebrahide_01\carpet_zebrahide_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\touristbinoculars_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_plane_mig21_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_plane_mig21_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_mat_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_mat.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\commercial\toy_tank_t55_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\broken_porch_01\broken_porch_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\broken_porch_02\broken_porch_02_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\debris_half_large_01\debris_half_large_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\debris_half_medium_01\debris_half_medium_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\fabric_tilepattern_auction_02\fabric_tilepattern_auction_01_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\fabric_tilepattern_auction_02\fabric_tilepattern_auction_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\kingdom_platform\kingdom_platform_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\generic\kingdom_suspensionbridge_01\kingdom_suspensionbridge_01_um.xbt
@@ -579,7 +596,9 @@ graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\indu
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\branding\entrance_sign_auction_01\entrance_sign_auction_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\furniture\bed_stretcher_01\bed_stretcher_01_um.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\furniture\table_hospital_01\table_hospital_01_um.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\cooked_flamingo_01\cooked_flamingo_01_b_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\cooked_flamingo_01\cooked_flamingo_01_b.xbt
+graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\cooked_flamingo_01\cooked_flamingo_01_n_mips.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\cooked_flamingo_01\cooked_flamingo_01_n.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\flamingo_feathers_01\flamingo_feathers_01_b.xbt
 graphics\tetra_post_launch\tetra_assaults\_textures\manmadespecific\objects\military\kingdom\flamingo_feathers_01\flamingo_feathers_01_n.xbt
@@ -719,12 +738,15 @@ graphics\world\_textures\manmadeshared\concretes\concrete_leaking_01\concrete_le
 graphics\world\_textures\manmadeshared\concretes\concrete_leaking_01\concrete_leaking_01_d.xbt
 graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_large_01\decal_blood_splatter_large_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_large_01\decal_blood_splatter_large_01_d.xbt
+graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_med_01\decal_blood_splatter_med_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_blood_splatter_med_01\decal_blood_splatter_med_01_d.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesconcrete_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesconcrete_01_d.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesconcrete_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesconcrete_01_n.xbt
+graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesmetal_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesmetal_01_d.xbt
+graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesmetal_01_n_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_bulletholes_01\decal_bulletholesmetal_01_n.xbt
 graphics\world\_textures\manmadeshared\decals\decal_concrete_pock_marks_01\decal_concrete_pock_marks_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\decals\decal_concrete_pock_marks_01\decal_concrete_pock_marks_01_b.xbt
@@ -1341,11 +1363,17 @@ graphics\world\_textures\natural\animals\fish_pile_01_n_mips.xbt
 graphics\world\_textures\natural\animals\fish_pile_01_n.xbt
 graphics\world\_textures\natural\animals\fish_pile_01_um.xbt
 graphics\world\_textures\natural\human\corpse\corpse_mummified_01\corpse_mummified_01_um.xbt
+graphics\world\_textures\vistalocations\vog-m-1177918230-b2-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-1177918230-b2-atlas_d.xbt
+graphics\world\_textures\vistalocations\vog-m-1830340821-a2-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-1830340821-a2-atlas_d.xbt
+graphics\world\_textures\vistalocations\vog-m-3665026089-b1-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-3665026089-b1-atlas_d.xbt
+graphics\world\_textures\vistalocations\vog-m-3685856798-b1-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-3685856798-b1-atlas_d.xbt
 graphics\world\_textures\vistalocations\vog-m-3703054018-b1-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-3703054018-b1-atlas_d.xbt
+graphics\world\_textures\vistalocations\vog-m-3745303212-b1-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-3745303212-b1-atlas_d.xbt
+graphics\world\_textures\vistalocations\vog-m-4036814301-a1-atlas_d_mips.xbt
 graphics\world\_textures\vistalocations\vog-m-4036814301-a1-atlas_d.xbt

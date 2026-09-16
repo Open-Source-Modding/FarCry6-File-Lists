@@ -1,4 +1,8 @@
-; 14313/128927 (11%)
+; 14397/128927 (11%)
+domino\user\fc6_dlc\fc6_year2\lockeddoorwithpadlock_year2.lockeddoorwithpadlock_year2.lua
+domino\user\fc6_main\openworld\scriptedobjects\yr2_trials_portal.yr2_trials_portal.lua
+domino\user\gym_encounters\dlcy2_lightningstrike.dlcy2_lightningstrike.lua
+domino\user\gym_encounters\structuremotionv2.structuremotionv2.lua
 entityarchetypeslibrary\126108376437762839.ark.fcb
 entityarchetypeslibrary\135115575692503831.ark.fcb
 entityarchetypeslibrary\7610361079219.ark.fcb
@@ -950,6 +954,7 @@ graphics\_materials\dluka-m-20220518145020.material.bin
 graphics\_materials\dluka-m-20220526120910.material.bin
 graphics\_materials\dluka-m-20220526152940.material.bin
 graphics\_materials\dmccrea-m-20200826135952.material.bin
+graphics\_materials\dmccrea-m-20200914081141.material.bin
 graphics\_materials\dmccrea-m-20220510120318.material.bin
 graphics\_materials\dmccrea-m-20220705111751.material.bin
 graphics\_materials\dwu-m-20180910175739.material.bin
@@ -1002,6 +1007,8 @@ graphics\_materials\edchan-m-20220722030455.material.bin
 graphics\_materials\edchan-m-20220722034747.material.bin
 graphics\_materials\edchan-m-20220808053902.material.bin
 graphics\_materials\edchan-m-20220915172451.material.bin
+graphics\_materials\edchan-m-20220920160144.material.bin
+graphics\_materials\edchan-m-20220920161751.material.bin
 graphics\_materials\flreloj-m-20190624111205.material.bin
 graphics\_materials\flreloj-m-20190624111726.material.bin
 graphics\_materials\flreloj-m-20190624112608.material.bin
@@ -1128,6 +1135,7 @@ graphics\_materials\ipulido-m-20220721110315.material.bin
 graphics\_materials\ipulido-m-20220721112025.material.bin
 graphics\_materials\ipulido-m-20220721112427.material.bin
 graphics\_materials\ipulido-m-20220721112522.material.bin
+graphics\_materials\ipulido-m-20220728103557.material.bin
 graphics\_materials\ipulido-m-20220728141809.material.bin
 graphics\_materials\ipulido-m-20220728141854.material.bin
 graphics\_materials\ipulido-m-20220823155033.material.bin
@@ -1140,7 +1148,9 @@ graphics\_materials\jawong-m-20220413163100.material.bin
 graphics\_materials\jawong-m-20220525103912.material.bin
 graphics\_materials\jawong-m-20220530154213.material.bin
 graphics\_materials\jawong-m-20220530155505.material.bin
+graphics\_materials\jawong-m-20220602135728.material.bin
 graphics\_materials\jawong-m-20220624140742.material.bin
+graphics\_materials\jawong-m-20220626165318.material.bin
 graphics\_materials\jawong-m-20220727094035.material.bin
 graphics\_materials\jawong-m-20220727154045.material.bin
 graphics\_materials\jawong-m-20220805093919.material.bin
@@ -1160,7 +1170,9 @@ graphics\_materials\jbatt-m-20220428161224.material.bin
 graphics\_materials\jbatt-m-20220531154122.material.bin
 graphics\_materials\jbatt-m-20220531154159.material.bin
 graphics\_materials\jbatt-m-20220603160152.material.bin
+graphics\_materials\jbatt-m-20220607132627.material.bin
 graphics\_materials\jbatt-m-20220608120925.material.bin
+graphics\_materials\jbatt-m-20220615143120.material.bin
 graphics\_materials\jbatt-m-20220615144420.material.bin
 graphics\_materials\jbatt-m-20220621165133.material.bin
 graphics\_materials\jbatt-m-20220621165143.material.bin
@@ -1211,6 +1223,7 @@ graphics\_materials\jpark4-m-20220610105818.material.bin
 graphics\_materials\jpark4-m-20220610105822.material.bin
 graphics\_materials\jpark4-m-20220610105826.material.bin
 graphics\_materials\jpark4-m-20220610105830.material.bin
+graphics\_materials\jpark4-m-20220707151432.material.bin
 graphics\_materials\jpark4-m-20220718163026.material.bin
 graphics\_materials\jpark4-m-20220718163038.material.bin
 graphics\_materials\jpark4-m-20220718163043.material.bin
@@ -1242,6 +1255,8 @@ graphics\_materials\llabram-m-20200814121839.material.bin
 graphics\_materials\llabram-m-20200911161510.material.bin
 graphics\_materials\llabram-m-20210225134152.material.bin
 graphics\_materials\llabram-m-20210225142313.material.bin
+graphics\_materials\lminghong-m-20160510180611.material.bin
+graphics\_materials\lminghong-m-20161017155510.material.bin
 graphics\_materials\lminghong-m-20170208154103.material.bin
 graphics\_materials\lminghong-m-20170215140938.material.bin
 graphics\_materials\lminghong-m-20170216142805.material.bin
@@ -1298,6 +1313,7 @@ graphics\_materials\mkang-m-20210129182554.material.bin
 graphics\_materials\mkang-m-20210129182616.material.bin
 graphics\_materials\mkang-m-20210129190247.material.bin
 graphics\_materials\mkang-m-20210505103020.material.bin
+graphics\_materials\mkang-m-20210505104815.material.bin
 graphics\_materials\mkang-m-20210505124150.material.bin
 graphics\_materials\mkang-m-20210505134538.material.bin
 graphics\_materials\mkang-m-20210506142535.material.bin
@@ -1330,6 +1346,7 @@ graphics\_materials\mschanz2-m-20201104142948.material.bin
 graphics\_materials\mschanz2-m-20201104145251_r7_pl.material.bin
 graphics\_materials\mschanz2-m-20201104145251.material.bin
 graphics\_materials\mschanz2-m-20201120143126.material.bin
+graphics\_materials\mschanz2-m-20201123114657.material.bin
 graphics\_materials\nbrdar-m-2013121041146988.material.bin
 graphics\_materials\ndelima-m-20200220133638.material.bin
 graphics\_materials\ndelima-m-20200220133738.material.bin
@@ -1366,6 +1383,7 @@ graphics\_materials\qzhou-m-20200311165459.material.bin
 graphics\_materials\qzhou-m-20200408175500.material.bin
 graphics\_materials\ricardoperez-m-20190713150031.material.bin
 graphics\_materials\richardbharata-m-20200420174905.material.bin
+graphics\_materials\richardbharata-m-20220419154627.material.bin
 graphics\_materials\rlaudico-m-20130919155037.material.bin
 graphics\_materials\rnanda2-m-20200228145807.material.bin
 graphics\_materials\rpormento-m-20191106111743.material.bin
@@ -1409,8 +1427,11 @@ graphics\_materials\rthormann-m-20200827113539.material.bin
 graphics\_materials\rthormann-m-20200827113543.material.bin
 graphics\_materials\rthormann-m-20200907152426.material.bin
 graphics\_materials\rthormann-m-20200907152431.material.bin
+graphics\_materials\rthormann-m-20210217100514.material.bin
+graphics\_materials\rthormann-m-20210222160553.material.bin
 graphics\_materials\saldarraji-m-20200729132711_pl.material.bin
 graphics\_materials\sbeaulieu-m-20130430131709.material.bin
+graphics\_materials\scontreras-m-20200129180342_pl.material.bin
 graphics\_materials\sdesjardins-m-20131003134631.material.bin
 graphics\_materials\sfhubert-m-20200115150509.material.bin
 graphics\_materials\sfhubert-m-20200121151426.material.bin
@@ -1432,6 +1453,7 @@ graphics\_materials\sparling-m-20210519140535.material.bin
 graphics\_materials\svarma-m-20220318132445.material.bin
 graphics\_materials\svarma-m-20220329124318.material.bin
 graphics\_materials\svarma-m-20220407103912.material.bin
+graphics\_materials\svarma-m-20220504125012.material.bin
 graphics\_materials\svarma-m-20220512153944.material.bin
 graphics\_materials\svarma-m-20220513153445.material.bin
 graphics\_materials\svarma-m-20220517112309.material.bin
@@ -1440,15 +1462,18 @@ graphics\_materials\svarma-m-20220526105149.material.bin
 graphics\_materials\svarma-m-20220613143645.material.bin
 graphics\_materials\svarma-m-20220629145546.material.bin
 graphics\_materials\svarma-m-20220706115031.material.bin
+graphics\_materials\svarma-m-20220714175307.material.bin
 graphics\_materials\svarma-m-20220726150515.material.bin
 graphics\_materials\svarma-m-20220726171400.material.bin
 graphics\_materials\svarma-m-20220726171457.material.bin
 graphics\_materials\svarma-m-20220726171503.material.bin
 graphics\_materials\svarma-m-20220726171509.material.bin
 graphics\_materials\svarma-m-20220726171514.material.bin
+graphics\_materials\svarma-m-20220727102754.material.bin
 graphics\_materials\svarma-m-20220728134610.material.bin
 graphics\_materials\svarma-m-20220809110240.material.bin
 graphics\_materials\svarma-m-20220815145226.material.bin
+graphics\_materials\svarma-m-20220815145455.material.bin
 graphics\_materials\svarma-m-20220815152917.material.bin
 graphics\_materials\svarma-m-20220815153052.material.bin
 graphics\_materials\svarma-m-20220815153209.material.bin
@@ -1457,10 +1482,14 @@ graphics\_materials\svarma-m-20220815153440.material.bin
 graphics\_materials\svarma-m-20220815153540.material.bin
 graphics\_materials\svarma-m-20220815153657.material.bin
 graphics\_materials\svarma-m-20220815153834.material.bin
+graphics\_materials\svarma-m-20220815153926.material.bin
 graphics\_materials\svarma-m-20220815154101.material.bin
 graphics\_materials\svarma-m-20220815154209.material.bin
 graphics\_materials\svarma-m-20220816112352.material.bin
 graphics\_materials\svarma-m-20220816112504.material.bin
+graphics\_materials\svarma-m-20220816113352.material.bin
+graphics\_materials\svarma-m-20220819120811.material.bin
+graphics\_materials\svarma-m-20220822105842.material.bin
 graphics\_materials\tcouture-m-20220427162852.material.bin
 graphics\_materials\tdeblock-m-20200521103340.material.bin
 graphics\_materials\tdeblock-m-20200521105357.material.bin
@@ -1479,6 +1508,7 @@ graphics\_materials\tmills-m-20210818142333.material.bin
 graphics\_materials\tmills-m-20210818142745.material.bin
 graphics\_materials\tmills-m-20210818142746.material.bin
 graphics\_materials\tmills-m-20210818143249.material.bin
+graphics\_materials\tmills-m-20211001112101.material.bin
 graphics\_materials\trichter-m-20191014150129_r7_pl.material.bin
 graphics\_materials\trichter-m-20191014150129.material.bin
 graphics\_materials\trichter-m-20191108101627.material.bin
@@ -1591,6 +1621,7 @@ graphics\_materials\xyang-m-20220502115447.material.bin
 graphics\_materials\xyang-m-20220502115714.material.bin
 graphics\_materials\xyzhu-m-20170817102529.material.bin
 graphics\_materials\yallaire-m-20130827091938.material.bin
+graphics\_materials\yfan2-m-20170929100621.material.bin
 graphics\_materials\yhzhou-m-20200102183835.material.bin
 graphics\_materials\yhzhou-m-20200102185322.material.bin
 graphics\_materials\yjfan-m-20190904165114.material.bin
@@ -1770,6 +1801,7 @@ graphics\_test\objectbank_tetra\olovtsov\layering_kit_01_junctionbox_03.xbg
 graphics\_test\objectbank_tetra\richardbharata\crystal_shader_test_cube_01.xbg
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_d_mips.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_d.xbt
+graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_n_mips.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_n.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templesmoothwall_01_d_mips.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templesmoothwall_01_d.xbt
@@ -1788,10 +1820,13 @@ graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_coastwhite_01_
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_um.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b.xbt
@@ -1837,6 +1872,7 @@ graphics\_tetra_dlc_common\world\_textures\manmadeshared\lights\emissive_atlas_0
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_b.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_m.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_02\bio_rk_pile_generic_02_m.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_02\bio_rk_pile_generic_02_n_mips.xbt
@@ -1895,6 +1931,7 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_01\decal_breakable_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_d.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_n.xbt
@@ -2031,6 +2068,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerru
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_floorold_02_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\woodplank_refrective_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\bridge\belltower_refrective_01_wall_01_m.xbt
@@ -2048,6 +2086,7 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\storeshelves_short_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\templerailing_floating_01\templerailing_floating_01_m.xbt
 graphics\_tetra_dlc_pagan\world\manmade\objects\generic\shelf_rustic_01.hkx
@@ -2113,6 +2152,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_emissive_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_emissive_b.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b.xbt
@@ -2126,6 +2166,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_0
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_02_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lave_large_02_um.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_limestone_large_04_vocanol_m.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\terrain\bio_gd_volcona_ground_01_b.xbts
@@ -2188,7 +2229,9 @@ graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\stranglerfig\bs_stranglerfig_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\stranglerfig\bs_stranglerfig_b.xbt
@@ -2494,11 +2537,13 @@ graphics\_tetra_pl_extended\orb\tetra_ply2_orb_expanding_04.xbg
 graphics\_tetra_pl_extended\orb\tetra_ply2_orb_shattered_ref.skeleton
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b.xbt
+graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_dm_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_dm.xbt
+graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_n_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_n.xbt
 graphics\_tetra_pl_extended\prototype\crystals\crystal_6m_01_parallax.xbg
 graphics\_tetra_pl_extended\prototype\crystals\crystal_cluster_60m_02.hkx
@@ -9745,6 +9790,45 @@ graphics\world\vista_locations\fc6_dlc_ext_main\j3\vog-23581-j3-2897081416-90155
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog--388305910-j4-1726893168-9015476914264365.xbg
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog-23107-j4-1462110983-9015538645056150.xbg
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog-23108-j4-3670826397-9015476914264365.xbg
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-main.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-start.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\fighter\guard\guard-idleblessed_st_noweap_loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\fighter\guard\guard-idlecautious_potthreat-st_shotgun_fighter-m-deputy_loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-start.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-hoveringidle_fai_01-main.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_dig.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_happy.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_howl.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_abort.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_shake.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_abort.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sniff.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow.move.bin
 newparticles\27029819343620823.part
 newparticles\7792890254666.part
 newparticles\9015429129679800.part

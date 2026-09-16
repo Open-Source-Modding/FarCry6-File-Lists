@@ -1,4 +1,4 @@
-; 235719/250723 (94%)
+; 235754/250723 (94%)
 activities\fc6_main\fc6_activities\fc6_agenda_activities\fc6_npc_agendas_central.nomad.fcb
 activities\fc6_main\fc6_activities\fc6_checkpointraces\fc6_checkpointraces_central.nomad.fcb
 activities\fc6_main\fc6_activities\fc6_checkpointraces\fc6_checkpointraces_master.nomad.fcb
@@ -81735,6 +81735,8 @@ dialog\behaviortrees\contextual_assault_chemical_drop.ai.rml
 dialog\behaviortrees\contextual_assault_temp_100.ai.rml
 dialog\behaviortrees\contextual_assault_temp_60.ai.rml
 dialog\behaviortrees\contextual_assault_temp_70.ai.rml
+dialog\behaviortrees\contextual_bangtv_lem0020_new.ai.rml
+dialog\behaviortrees\contextual_bangtv_lem0020.ai.rml
 dialog\behaviortrees\contextual_battle_filler_computer.ai.rml
 dialog\behaviortrees\contextual_battle_filler_yells_mis5010.ai.rml
 dialog\behaviortrees\contextual_battle_filler_yells_mis5160.ai.rml
@@ -81835,6 +81837,11 @@ dialog\behaviortrees\contextual_thanking.ai.rml
 dialog\behaviortrees\contextual_threatseen.ai.rml
 dialog\behaviortrees\contextual_vendor_distant.ai.rml
 dialog\behaviortrees\contextual_waiting_stealth.ai.rml
+dialog\behaviortrees\contextual_y2trial11_temp_0.ai.rml
+dialog\behaviortrees\contextual_y2trial11_temp_40.ai.rml
+dialog\behaviortrees\contextual_y2trial13_fai_warning.ai.rml
+dialog\behaviortrees\contextual_y2trial13_temp_100.ai.rml
+dialog\behaviortrees\contextual_y2trial13_temp_60.ai.rml
 dialog\behaviortrees\dgs_backpack.ai.rml
 dialog\behaviortrees\dgs_begging.ai.rml
 dialog\behaviortrees\dgs_blockade_complete.ai.rml
@@ -81867,6 +81874,7 @@ dialog\behaviortrees\generic_battle_filler_yells_reply.ai.rml
 dialog\behaviortrees\generic_battle_filler_yells.ai.rml
 dialog\behaviortrees\generic_berate.ai.rml
 dialog\behaviortrees\generic_filler_idle_reply_dlcv.ai.rml
+dialog\behaviortrees\generic_flayed_disturbed.ai.rml
 dialog\behaviortrees\generic_hostage_begging.ai.rml
 dialog\behaviortrees\generic_idle_filler_dlcv.ai.rml
 dialog\behaviortrees\generic_idle_filler_post_combat_reply.ai.rml
@@ -81972,6 +81980,7 @@ dialog\behaviortrees\inform_screech_short.ai.rml
 dialog\behaviortrees\inform_searchingfiller_dlcv.ai.rml
 dialog\behaviortrees\inform_searchingfiller.ai.rml
 dialog\behaviortrees\inform_seated.ai.rml
+dialog\behaviortrees\inform_shard_set.ai.rml
 dialog\behaviortrees\inform_sniperfire.ai.rml
 dialog\behaviortrees\inform_spotted.ai.rml
 dialog\behaviortrees\inform_suppressed.ai.rml
@@ -82001,6 +82010,7 @@ dialog\behaviortrees\ono_horse_decelerate.ai.rml
 dialog\behaviortrees\ono_horse_galloping.ai.rml
 dialog\behaviortrees\ono_horse_halt.ai.rml
 dialog\behaviortrees\ono_horse_rearing.ai.rml
+dialog\behaviortrees\ono_hub_revive.ai.rml
 dialog\behaviortrees\ono_humming.ai.rml
 dialog\behaviortrees\ono_laugh_normal.ai.rml
 dialog\behaviortrees\ono_laugh_victorious.ai.rml
@@ -82017,6 +82027,7 @@ dialog\behaviortrees\ono_spit_low.ai.rml
 dialog\behaviortrees\ono_struggle.ai.rml
 dialog\behaviortrees\ono_surprised_effort.ai.rml
 dialog\behaviortrees\ono_yawn.ai.rml
+dialog\behaviortrees\reflex_ability_auto_revive.ai.rml
 dialog\behaviortrees\reflex_allyseen.ai.rml
 dialog\behaviortrees\reflex_animal_charming.ai.rml
 dialog\behaviortrees\reflex_animal_start.ai.rml
@@ -82069,6 +82080,7 @@ dialog\behaviortrees\reflex_hazard_attack_bear.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_boar.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_cougar.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_crocodile.ai.rml
+dialog\behaviortrees\reflex_hazard_attack_demogorgon.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_dog.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_judge.ai.rml
 dialog\behaviortrees\reflex_hazard_attack_mongoose.ai.rml
@@ -84295,6 +84307,28 @@ domino\user\fc6_dlc\fc6_dlc_vaas\sidemissions\dlc_vaas_wtf_020\dlc_vaas_wtf_020_
 domino\user\fc6_dlc\fc6_dlc_vaas\sidemissions\dlc_vaas_wtf_020\dlc_vaas_wtf_020_b10.dlc_vaas_wtf_020_b10.debug.lua
 domino\user\fc6_dlc\fc6_dlc_vaas\sidemissions\dlc_vaas_wtf_020\dlc_vaas_wtf_020_b10.dlc_vaas_wtf_020_b10.lua
 domino\user\fc6_dlc\fc6_dlc_vaas\sidemissions\dlc_vaas_wtf_020\dlc_vaas_wtf_020_b10.globals.lua
+domino\user\fc6_dlc\fc6_year2\yr2_boss_01.yr2_boss_01.lua
+domino\user\fc6_dlc\fc6_year2\yr2_gamestart.yr2_gamestart.lua
+domino\user\fc6_dlc\fc6_year2\yr2_hub_world.yr2_hub_world.lua
+domino\user\fc6_dlc\fc6_year2\yr2_intro_cin.yr2_intro_cin.lua
+domino\user\fc6_dlc\fc6_year2\yr2_intro_mis.yr2_intro_mis.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_01.yr2_trial_01.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_02.yr2_trial_02.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_03.yr2_trial_03.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_04.yr2_trial_04.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_05.yr2_trial_05.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_06.yr2_trial_06.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_07.yr2_trial_07.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_08.yr2_trial_08.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_09.yr2_trial_09.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_10.yr2_trial_10.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_11.yr2_trial_11.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_12.yr2_trial_12.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_13.yr2_trial_13.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_14.yr2_trial_14.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trial_15.yr2_trial_15.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trials_debug.yr2_trials_debug.lua
+domino\user\fc6_dlc\fc6_year2\yr2_trials_reset.yr2_trials_reset.lua
 domino\user\fc6_main\activities\fc6_animal_dens\den_central.den_central_postcampaign.debug.lua
 domino\user\fc6_main\activities\fc6_animal_dens\den_central.den_central_postcampaign.lua
 domino\user\fc6_main\activities\fc6_animal_dens\den_central.den_central.debug.lua
@@ -88556,6 +88590,7 @@ engine\scripts\game\contextualaction\stp\companiontargetassigned.ai.rml
 engine\scripts\game\contextualaction\stp\eagleidleintowerstp.ai.rml
 engine\scripts\game\contextualaction\stp\followtarget.ai.rml
 engine\scripts\game\contextualaction\stp\genericidle.ai.rml
+engine\scripts\game\contextualaction\stp\minigames\spectatorcockfightminigame.ai.rml
 engine\scripts\game\contextualaction\stp\mobilealarm.ai.rml
 engine\scripts\game\contextualaction\stp\mountedweapon.ai.rml
 engine\scripts\game\contextualaction\stp\movetopoint.ai.rml

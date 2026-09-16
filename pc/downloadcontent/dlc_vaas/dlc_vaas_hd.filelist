@@ -1,4 +1,4 @@
-; 2139/2157 (99%)
+; 2157/2157 (100%)
 ; 141 not in parent
 graphics\_common\_textures\nature\rock\rock_moss_02_d_mips.xbt
 graphics\_common\_textures\nature\rock\rock_moss_02_d.xbt
@@ -282,11 +282,14 @@ graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b_mi
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_b.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_m.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_um.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_tm.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b_mips.xbt
 graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_highland_rock_02_b.xbt
@@ -416,6 +419,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\cave\bio_cave_column_large_01_
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\cave\bio_cave_column_large_01_um.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_mud_puddle_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_mud_puddle_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_mud_puddle_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_mud_puddle_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_volcona_lava_01_disp_a.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\decals\bio_dl_volcona_lava_01_disp_b_mips.xbt
@@ -449,6 +453,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_jungle_redmoss_01_
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_jungle_redmoss_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_trail_mud_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_trail_mud_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_trail_mud_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_trail_mud_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_volcona_lava_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\road\bio_rd_volcona_lava_01_b.xbt
@@ -500,6 +505,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_med
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_med_cover_06_m.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_rock_detial_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_small_cover_02_m_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\coast\bio_rk_igneous_small_cover_02_m.xbt
@@ -529,6 +535,7 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_01_
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_b.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_climbable_02_b.xbt
@@ -614,7 +621,9 @@ graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_igneous_s
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_igneous_small_pebbles_03_volcano_um.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_emissive_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_emissive_b.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_m_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_m.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_limestone_large_04_vocanol_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_limestone_large_04_vocanol_b.xbt
@@ -805,6 +814,7 @@ graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\groundroot\sha_proto_moss_n
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_bark_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_bark_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_bark_m.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_bark_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_bark_n.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_burned_bark_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\gumbolimbo\bio_tr_gumbolimbo_burned_bark_b.xbt
@@ -934,7 +944,9 @@ graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\scaevola\bio_bs_coast_scaevolataccada_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\scaevola\bio_bs_coast_scaevolataccada_01_b.xbt
@@ -1397,6 +1409,7 @@ graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpack_single
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpack_single_01_n.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpowder_danger_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpowder_danger_01_b.xbt
+graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpowder_danger_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\drugpowder_danger_01_n.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\graffitidecal_loottrap_stained_01_b_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\graffitidecal_loottrap_stained_01_b.xbt
@@ -1449,6 +1462,7 @@ graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_bloodm
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_bloodmudpuddle_05_sm_b.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_foodtealeave_b_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_foodtealeave_b.xbt
+graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_foodtealeave_n_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_foodtealeave_n.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_mudpuddle_04_b_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\objects\reimport_mudpuddle_04_b.xbt
@@ -1542,6 +1556,7 @@ graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\mushroom_toxic_01_b.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\mushroom_toxic_01_m.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\mushroom_toxic_01_mat.xbt
+graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\mushroom_toxic_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\mushroom_toxic_01_n.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\drhouse\vaassafehouse_sml_01_m.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\residential\hotel\blooddecal_01_b.xbt
@@ -1686,6 +1701,7 @@ graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\decal
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\firebowl_mysterious_01_um.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\foodmeatmuscle_b_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\foodmeatmuscle_b.xbt
+graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\foodmeatmuscle_n_mips.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\foodmeatmuscle_n.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\generic_mask_02_m_m.xbt
 graphics\_tetra_dlc_vaas\world\_textures\manmadespecific\structures\temple\luggagecase_piled_02_b_mips.xbt
@@ -1852,10 +1868,12 @@ graphics\biomes\nature\_textures\rocks\bio_rk_genic_cliff_01_d_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_genic_cliff_01_d.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_genic_cliff_01_n_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_genic_cliff_01_n.xbt
+graphics\biomes\nature\_textures\rocks\bio_rk_limestone_detailb_n_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_limestone_detailb_n.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_limestone_small_cover_08_m.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_marine_01_b_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_marine_01_b.xbt
+graphics\biomes\nature\_textures\rocks\bio_rk_marine_01_n_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_marine_01_n.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_med_cover_05_um.xbt
 graphics\biomes\nature\_textures\rocks\bio_rk_montain_rock_trmask_m_mips.xbt

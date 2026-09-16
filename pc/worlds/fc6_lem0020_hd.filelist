@@ -1,4 +1,4 @@
-; 623/631 (98%)
+; 631/631 (100%)
 ; 21 not in parent
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_shr_eyelashesbrows_01_echo_u_b_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_shr_eyelashesbrows_01_echo_u_b.xbt
@@ -60,9 +60,11 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_01_b.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_01_m.xbt
+graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_01_n.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_02_b_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_02_b.xbt
+graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_02_n_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_tentacle_web_02_n.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_thickwebbing_single_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\nature\_textures\decals\bio_dl_up_thickwebbing_single_01_b.xbt
@@ -126,6 +128,7 @@ graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_gen_up_log
 graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_gen_up_log_03_n.xbt
 graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_up_tentacle_clumps_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_up_tentacle_clumps_01_b.xbt
+graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_up_tentacle_clumps_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\biomes\vegetation\_textures\static\bio_sta_up_tentacle_clumps_01_n.xbt
 graphics\_tetra_pl_lem0020\biomes\vegetation\bushes\wildshrub\impostors\bio_bs_up_wildshrub_100cm_02_d.xbt
 graphics\_tetra_pl_lem0020\biomes\vegetation\bushes\wildshrub\impostors\bio_bs_up_wildshrub_100cm_02_m.xbt
@@ -492,16 +495,21 @@ graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\portal_membrane_01_
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\portal_membrane_01_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_branch_decal_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_branch_decal_01_b.xbt
+graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_branch_decal_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_branch_decal_01_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_flesh_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_flesh_01_b.xbt
+graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_flesh_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_flesh_01_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_nest_decal_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_nest_decal_01_b.xbt
+graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_nest_decal_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_nest_decal_01_n.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_b.xbt
+graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_n_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_n.xbt
+graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_tm_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\tentacles\tentacle_network_01_tm.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\webbing\webbing_stretch_decal_01\webbing_stretch_decal_01_b_mips.xbt
 graphics\_tetra_pl_lem0020\world\_textures\natural\webbing\webbing_stretch_decal_01\webbing_stretch_decal_01_b.xbt

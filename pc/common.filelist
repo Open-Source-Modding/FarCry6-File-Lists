@@ -1,4 +1,4 @@
-; 12069/19794 (60%)
+; 12070/19794 (60%)
 actionmaps\hid_bindings_gamepad.xml
 actionmaps\hid_bindings_kbm.xml
 actionmaps\hid_bindings.xml
@@ -9958,6 +9958,7 @@ ui\zeta\phoenix\sources\scenes\h_weaponwheel_dlc_pagan_231c5414-f584-484a-92a7-e
 ui\zeta\phoenix\sources\scenes\h_weaponwheel_dlc_vaas_d3e33620-fc62-455a-a862-6c77a24b73b4.spx
 ui\zeta\phoenix\sources\scenes\h_weaponwheel_dlcy2_e13d22e2-14c1-47dc-a51e-b6cfa7822c18.spx
 ui\zeta\phoenix\sources\scenes\l_loadingscreen_4f3e7c45-34bf-4644-b075-a9bacc93f566.spx
+ui\zeta\phoenix\sources\scenes\l_loadingscreen_dlcy2_4761f575-8942-45bb-88bc-8c90b4e9957e.spx
 ui\zeta\phoenix\sources\scenes\m_armourymenu_dlc_joseph_a1dd3d32-72d1-46af-a822-a64c0dc143b4.spx
 ui\zeta\phoenix\sources\scenes\m_armourymenu_dlc_pagan_e8a06132-805f-433c-97da-f1b75f5158ab.spx
 ui\zeta\phoenix\sources\scenes\m_armourymenu_dlc_vaas_c106fbfa-fe63-4a57-8e73-792c3ab5c31c.spx
