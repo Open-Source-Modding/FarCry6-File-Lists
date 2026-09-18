@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ; 533/1101 (48%)
+=======
+; 482/1101 (43%)
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 actionmaps\hid_bindings.xml
 actionmaps\hid_defaultremappings.xml
 common_depload.dat
@@ -15,12 +19,15 @@ databases\generic\radiostations.ndb
 databases\generic\radiotracks.ndb
 databases\generic\weathereffectssettings.ndb
 databases\generic\weatherpresetsdata.ndb
+<<<<<<< HEAD
 domino\user\armaniii\fc6_defendoutpost.fc6_defendoutpost.lua
 domino\user\armaniii\fc6_flashlight.lua
 domino\user\armaniii\fc6_sleep.fc6_sleep.lua
 domino\user\armaniii\fc6_slowmotion_inventory.lua
 domino\user\armaniii\fc6_slowmotion.lua
 domino\user\armaniii\fc6_zeniagarageopener.fc6_zeniagarageopener.lua
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 domino\user\fc6_main\activities\fc6_licensed\lem0020\lem0020_b10.lem0020_b10.lua
 domino\user\fc6_main\activities\fc6_licensed\lem0020\lem0020_b20.lem0020_b20.lua
 domino\user\fc6_main\activities\fc6_licensed\lem0020\lem0020_switch_world_to_lem.lem0020_switch_world_to_lem.lua
@@ -109,7 +116,10 @@ entityarchetypeslibrary\9015420961829565.ark.fcb
 entityarchetypeslibrary\9015420961865364.ark.fcb
 entityarchetypeslibrary\9015420961966569.ark.fcb
 entityarchetypeslibrary\9015423752668937.ark.fcb
+<<<<<<< HEAD
 entityarchetypeslibrary\9015424743689463.ark.fcb
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 entityarchetypeslibrary\9015425127539039.ark.fcb
 entityarchetypeslibrary\9015425253072738.ark.fcb
 entityarchetypeslibrary\9015430629440173.ark.fcb
@@ -280,14 +290,20 @@ graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_firstpers
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_firstpersonarm_01_f_b.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_firstpersonarm_01_u_sdm_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_firstpersonarm_01_u_sdm.xbt
+<<<<<<< HEAD
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_jonronoutfit_01_f_b_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_jonronoutfit_01_f_b.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_shr_base_01_u_sdm_mips.xbt
 graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_shr_base_01_u_sdm.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_char001_02_f_b_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_char001_02_f_b.xbt
+<<<<<<< HEAD
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_jonronoutfit_01_f_b_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_jonronoutfit_01_f_b.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_shr_base_01_u_sdm_mips.xbt
 graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_shr_base_01_u_sdm.xbt
 graphics\_common\characters\fct\human\belt\_gamex\fct_blt_uni_char101_01_f.xbg
@@ -493,6 +509,21 @@ sequences\fc6_main\fc6_playerbase\base_upgrades\g1_playerbase_west\g1_playerbase
 sequences\fc6_main\fc6_playerbase\base_upgrades\g1_playerbase_west\g1_playerbase_west_socket_upgrade02.cseq
 soundbinary\soundinfo.bin
 ui\tetra\textures\1newui\hud\specialhuditems\camera\tx_phone_cracks.xbt
+<<<<<<< HEAD
+=======
+domino\user\armaniii\fc6_defendoutpost.fc6_defendoutpost.lua
+domino\user\armaniii\fc6_flashlight.lua
+domino\user\armaniii\fc6_sleep.fc6_sleep.lua
+domino\user\armaniii\fc6_slowmotion.lua
+domino\user\armaniii\fc6_slowmotion_inventory.lua
+domino\user\armaniii\fc6_zeniagarageopener.fc6_zeniagarageopener.lua
+entityarchetypeslibrary\9015424743689463.ark.fcb
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_jonronoutfit_01_f_b.xbt
+graphics\_common\characters\fct\human\_base\body\_textures\fct_bod_plr_jonronoutfit_01_f_b_mips.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_jonronoutfit_01_f_b.xbt
+graphics\_common\characters\fct\human\_base\head\_textures\fct_hed_plr_jonronoutfit_01_f_b_mips.xbt
+graphics\vehicles\_textures\land\buggy\veh_buggy_signature_01\buggy_signature_01_exterior.xbt
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 ui\tetra\textures\1newui\x_icons\map\updatedicons\tx_map_defendoutpost.xbt
 ui\tetra\textures\1newui\x_icons\map\updatedicons\tx_map_sleep.xbt
 ui\tetra\textures\1newui\x_icons\minimap\tx_minimap_defendoutpost.xbt

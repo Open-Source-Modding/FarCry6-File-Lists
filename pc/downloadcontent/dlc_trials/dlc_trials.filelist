@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ; 14397/128927 (11%)
 domino\user\fc6_dlc\fc6_year2\lockeddoorwithpadlock_year2.lockeddoorwithpadlock_year2.lua
 domino\user\fc6_main\openworld\scriptedobjects\yr2_trials_portal.yr2_trials_portal.lua
 domino\user\gym_encounters\dlcy2_lightningstrike.dlcy2_lightningstrike.lua
 domino\user\gym_encounters\structuremotionv2.structuremotionv2.lua
+=======
+; 14036/128927 (10%)
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 entityarchetypeslibrary\126108376437762839.ark.fcb
 entityarchetypeslibrary\135115575692503831.ark.fcb
 entityarchetypeslibrary\7610361079219.ark.fcb
@@ -906,11 +910,15 @@ graphics\_materials\dguillon-m-20170802114559.material.bin
 graphics\_materials\dguillon-m-20170912135613.material.bin
 graphics\_materials\dguillon-m-20171115165210.material.bin
 graphics\_materials\dguillon-m-20180813171013.material.bin
+<<<<<<< HEAD
 graphics\_materials\dguillon-m-20180814161216.material.bin
 graphics\_materials\dguillon-m-20180815102732.material.bin
 graphics\_materials\dguillon-m-20180816151648.material.bin
 graphics\_materials\dguillon-m-20180920103511.material.bin
 graphics\_materials\dingham-m-20201116105933.material.bin
+=======
+graphics\_materials\dguillon-m-20180815102732.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\dlitonjua-m-20220517092751.material.bin
 graphics\_materials\dlitonjua-m-20220706085404.material.bin
 graphics\_materials\dlitonjua-m-20220706085849.material.bin
@@ -1006,9 +1014,12 @@ graphics\_materials\edchan-m-20220718165104.material.bin
 graphics\_materials\edchan-m-20220722030455.material.bin
 graphics\_materials\edchan-m-20220722034747.material.bin
 graphics\_materials\edchan-m-20220808053902.material.bin
+<<<<<<< HEAD
 graphics\_materials\edchan-m-20220915172451.material.bin
 graphics\_materials\edchan-m-20220920160144.material.bin
 graphics\_materials\edchan-m-20220920161751.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\flreloj-m-20190624111205.material.bin
 graphics\_materials\flreloj-m-20190624111726.material.bin
 graphics\_materials\flreloj-m-20190624112608.material.bin
@@ -1033,6 +1044,7 @@ graphics\_materials\fvallar-m-20190830160950.material.bin
 graphics\_materials\fvallar-m-20190903172405.material.bin
 graphics\_materials\fvallar-m-20190904141454.material.bin
 graphics\_materials\fvallar-m-20190904164254.material.bin
+<<<<<<< HEAD
 graphics\_materials\fvallar-m-20200522144641.material.bin
 graphics\_materials\fvallar-m-20200522144712.material.bin
 graphics\_materials\fvallar-m-20200522144742.material.bin
@@ -1047,6 +1059,8 @@ graphics\_materials\gdominguez-m-20190613175014_r15_pl.material.bin
 graphics\_materials\gdominguez-m-20190614113543_r15_pl.material.bin
 graphics\_materials\gdominguez-m-20190624175046_r15_pl.material.bin
 graphics\_materials\gdominguez-m-20190705184419_r15_pl.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\gdominguez-m-20200103115224_r1_pl.material.bin
 graphics\_materials\gdominguez-m-20200103115224_ud_pl.material.bin
 graphics\_materials\gdominguez-m-20200103115407_r1_pl.material.bin
@@ -1086,11 +1100,14 @@ graphics\_materials\hmendoza-m-20200818171054.material.bin
 graphics\_materials\hmistry-m-20220513083310.material.bin
 graphics\_materials\hmistry-m-20220513083725.material.bin
 graphics\_materials\hmistry-m-20220513085828.material.bin
+<<<<<<< HEAD
 graphics\_materials\htong2-m-20170817120929.material.bin
 graphics\_materials\hyang-m-20160330145234.material.bin
 graphics\_materials\hyang-m-20160330150450.material.bin
 graphics\_materials\hyang-m-20160401164557.material.bin
 graphics\_materials\hyang-m-20160715160831.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\hyang-m-20170313175319.material.bin
 graphics\_materials\hyang-m-20170320185730.material.bin
 graphics\_materials\hyang-m-20170522181600.material.bin
@@ -1192,8 +1209,11 @@ graphics\_materials\jlee-m-20220513024522.material.bin
 graphics\_materials\jlee-m-20220513024604.material.bin
 graphics\_materials\jlee-m-20220513024626.material.bin
 graphics\_materials\jlee-m-20220726115551.material.bin
+<<<<<<< HEAD
 graphics\_materials\jlee-m-20220804221658.material.bin
 graphics\_materials\jliang-m-20190726104508.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\jliang-m-20200428145016.material.bin
 graphics\_materials\jmartin4-m-20220318152844.material.bin
 graphics\_materials\jonasaxelsson-m-20170112133209.material.bin
@@ -1232,6 +1252,7 @@ graphics\_materials\jpark4-m-20220718163100.material.bin
 graphics\_materials\jqingyue-m-20200924101809.material.bin
 graphics\_materials\jsheng2-m-20200602112303.material.bin
 graphics\_materials\jsheng2-m-20210630112532.material.bin
+<<<<<<< HEAD
 graphics\_materials\jsullivan-m-20201214125744.material.bin
 graphics\_materials\jsullivan-m-20201214134433.material.bin
 graphics\_materials\jsullivan-m-20210504102634.material.bin
@@ -1240,6 +1261,11 @@ graphics\_materials\jsullivan-m-20210504164705.material.bin
 graphics\_materials\jsullivan-m-20210505105407.material.bin
 graphics\_materials\jsullivan-m-20210510121521.material.bin
 graphics\_materials\jsullivan-m-20210528091953.material.bin
+=======
+graphics\_materials\jsullivan-m-20210504102634.material.bin
+graphics\_materials\jsullivan-m-20210504130919.material.bin
+graphics\_materials\jsullivan-m-20210504164705.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\jsullivan-m-20211111102738.material.bin
 graphics\_materials\jtan-m-20161213095517.material.bin
 graphics\_materials\jtan-m-20170510170653.material.bin
@@ -1312,6 +1338,7 @@ graphics\_materials\mkang-m-20210129182540.material.bin
 graphics\_materials\mkang-m-20210129182554.material.bin
 graphics\_materials\mkang-m-20210129182616.material.bin
 graphics\_materials\mkang-m-20210129190247.material.bin
+<<<<<<< HEAD
 graphics\_materials\mkang-m-20210505103020.material.bin
 graphics\_materials\mkang-m-20210505104815.material.bin
 graphics\_materials\mkang-m-20210505124150.material.bin
@@ -1319,16 +1346,22 @@ graphics\_materials\mkang-m-20210505134538.material.bin
 graphics\_materials\mkang-m-20210506142535.material.bin
 graphics\_materials\mkang-m-20210506143401.material.bin
 graphics\_materials\mkang-m-20210506153100.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\mkang-m-20210512174907.material.bin
 graphics\_materials\mkang-m-20210525162330.material.bin
 graphics\_materials\mkniazieva-m-20220428084023.material.bin
 graphics\_materials\mkniazieva-m-20220531161059.material.bin
+<<<<<<< HEAD
 graphics\_materials\mroy2-m-20160113155146.material.bin
 graphics\_materials\mroy2-m-20160113163704.material.bin
 graphics\_materials\mroy2-m-20160301131510.material.bin
 graphics\_materials\mroy2-m-20160315103632.material.bin
 graphics\_materials\mschanz-m-20200113112420.material.bin
 graphics\_materials\mschanz-m-20200113131127.material.bin
+=======
+graphics\_materials\mschanz-m-20200113112420.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\mschanz2-m-20200227165338.material.bin
 graphics\_materials\mschanz2-m-20200227165415.material.bin
 graphics\_materials\mschanz2-m-20200303114523.material.bin
@@ -1340,7 +1373,10 @@ graphics\_materials\mschanz2-m-20200827203847.material.bin
 graphics\_materials\mschanz2-m-20200827213033.material.bin
 graphics\_materials\mschanz2-m-20200828103853.material.bin
 graphics\_materials\mschanz2-m-20200828160710.material.bin
+<<<<<<< HEAD
 graphics\_materials\mschanz2-m-20201103115111.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\mschanz2-m-20201104142948_r7_pl.material.bin
 graphics\_materials\mschanz2-m-20201104142948.material.bin
 graphics\_materials\mschanz2-m-20201104145251_r7_pl.material.bin
@@ -1375,7 +1411,10 @@ graphics\_materials\prichardson-m-20170504154308.material.bin
 graphics\_materials\prichardson-m-20170505104530.material.bin
 graphics\_materials\ptgao-m-20200831151951.material.bin
 graphics\_materials\qchen-m-20160901164353.material.bin
+<<<<<<< HEAD
 graphics\_materials\qzhou-m-20190731111628.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\qzhou-m-20191029111027.material.bin
 graphics\_materials\qzhou-m-20191029190823.material.bin
 graphics\_materials\qzhou-m-20191029192251.material.bin
@@ -1502,6 +1541,7 @@ graphics\_materials\tliu2-m-20200611105219.material.bin
 graphics\_materials\tliu2-m-20200624170306.material.bin
 graphics\_materials\tliu2-m-20200804184033.material.bin
 graphics\_materials\tliu2-m-20200805111041.material.bin
+<<<<<<< HEAD
 graphics\_materials\tmills-m-20170425142905.material.bin
 graphics\_materials\tmills-m-20201117085024.material.bin
 graphics\_materials\tmills-m-20210818142333.material.bin
@@ -1509,6 +1549,9 @@ graphics\_materials\tmills-m-20210818142745.material.bin
 graphics\_materials\tmills-m-20210818142746.material.bin
 graphics\_materials\tmills-m-20210818143249.material.bin
 graphics\_materials\tmills-m-20211001112101.material.bin
+=======
+graphics\_materials\tmills-m-20201117085024.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\trichter-m-20191014150129_r7_pl.material.bin
 graphics\_materials\trichter-m-20191014150129.material.bin
 graphics\_materials\trichter-m-20191108101627.material.bin
@@ -1536,8 +1579,11 @@ graphics\_materials\vgruse-m-20200605093450.material.bin
 graphics\_materials\vgruse-m-20200605103114.material.bin
 graphics\_materials\vgruse-m-20200611115428_r7_pl.material.bin
 graphics\_materials\vgruse-m-20200611115428.material.bin
+<<<<<<< HEAD
 graphics\_materials\vgruse-m-20200810142721_r7_pl.material.bin
 graphics\_materials\vgruse-m-20200810142721.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\vog-m-1070727939-d2-atlas.material.bin
 graphics\_materials\vog-m-1211272120-j4-atlas.material.bin
 graphics\_materials\vog-m-1221931925-d3-atlas.material.bin
@@ -1591,11 +1637,14 @@ graphics\_materials\wqingxia-m-20170425160802.material.bin
 graphics\_materials\wtang-m-20160510173123.material.bin
 graphics\_materials\wtang-m-20160510181340.material.bin
 graphics\_materials\wxilin-m-20190821153327.material.bin
+<<<<<<< HEAD
 graphics\_materials\wxilin-m-20190920163016.material.bin
 graphics\_materials\wxilin-m-20190920181640.material.bin
 graphics\_materials\wxilin-m-20190920184434.material.bin
 graphics\_materials\wxilin-m-20190923100346.material.bin
 graphics\_materials\wxilin-m-20200515135036.material.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\wxilin-m-20200526104307.material.bin
 graphics\_materials\wxinyu-m-20200616165850.material.bin
 graphics\_materials\wxu-m-20170704205714.material.bin
@@ -1629,6 +1678,7 @@ graphics\_materials\yjfan-m-20191126090538.material.bin
 graphics\_materials\yjfan-m-20200415180058.material.bin
 graphics\_materials\yjfan-m-20201029132620.material.bin
 graphics\_materials\yjfan-m-20201217150134.material.bin
+<<<<<<< HEAD
 graphics\_materials\yjfan-m-20210112150346.material.bin
 graphics\_materials\yjfan-m-20210112170112.material.bin
 graphics\_materials\yliu5-m-20180907105138.material.bin
@@ -1642,6 +1692,10 @@ graphics\_materials\yliu5-m-20181024210815.material.bin
 graphics\_materials\ymei-m-20191224152747.material.bin
 graphics\_materials\ymei-m-20191224153413.material.bin
 graphics\_materials\ymei-m-20191225164442.material.bin
+=======
+graphics\_materials\yliu5-m-20180907105138.material.bin
+graphics\_materials\yliu5-m-20181023101404.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\ymei-m-20200730125546.material.bin
 graphics\_materials\ymei-m-20200730130131.material.bin
 graphics\_materials\ymei-m-20200730131309.material.bin
@@ -1667,11 +1721,17 @@ graphics\_materials\yqyang-m-20200109104603.material.bin
 graphics\_materials\yqyang-m-20200116171001.material.bin
 graphics\_materials\yqyang-m-20200309171513.material.bin
 graphics\_materials\yqyang-m-20200310182931.material.bin
+<<<<<<< HEAD
 graphics\_materials\yqyang-m-20200519143536.material.bin
 graphics\_materials\yqyang-m-20200708105051.material.bin
 graphics\_materials\yqyang-m-20200923135307.material.bin
 graphics\_materials\yqyang-m-20200928152802.material.bin
 graphics\_materials\yqzhou2-m-20201117155402.material.bin
+=======
+graphics\_materials\yqyang-m-20200708105051.material.bin
+graphics\_materials\yqyang-m-20200923135307.material.bin
+graphics\_materials\yqyang-m-20200928152802.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\ytchen-m-20190606140224.material.bin
 graphics\_materials\ytchen-m-20190613162638.material.bin
 graphics\_materials\ytchen-m-20190820105659.material.bin
@@ -1682,6 +1742,7 @@ graphics\_materials\ywang4-m-20191017105023.material.bin
 graphics\_materials\ywang4-m-20191211155520.material.bin
 graphics\_materials\ywang4-m-20200317180817.material.bin
 graphics\_materials\yyma-m-20200526183954.material.bin
+<<<<<<< HEAD
 graphics\_materials\yyma-m-20200529104257.material.bin
 graphics\_materials\yyma-m-20200611133455.material.bin
 graphics\_materials\yyma-m-20200901182221.material.bin
@@ -1689,6 +1750,11 @@ graphics\_materials\yyma-m-20200917180741.material.bin
 graphics\_materials\yyma-m-20201118152433.material.bin
 graphics\_materials\yzhao3-m-20190314171846.material.bin
 graphics\_materials\yzhao3-m-20190314173428.material.bin
+=======
+graphics\_materials\yyma-m-20200901182221.material.bin
+graphics\_materials\yyma-m-20200917180741.material.bin
+graphics\_materials\yyma-m-20201118152433.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\yzhao3-m-20190328155453.material.bin
 graphics\_materials\yzhao3-m-20200629164148.material.bin
 graphics\_materials\yzhao3-m-20200629164304.material.bin
@@ -1700,6 +1766,7 @@ graphics\_materials\yzhao3-m-20200715175318.material.bin
 graphics\_materials\yzhao3-m-20200715175324.material.bin
 graphics\_materials\yzhao3-m-20200715175329.material.bin
 graphics\_materials\yzhao3-m-20200715175333.material.bin
+<<<<<<< HEAD
 graphics\_materials\yzhao3-m-20200821110414.material.bin
 graphics\_materials\yzhijie-m-20200104201312.material.bin
 graphics\_materials\zbeliveau-m-20160805152856_pl.material.bin
@@ -1707,6 +1774,9 @@ graphics\_materials\zbeliveau-m-20160805153749_pl.material.bin
 graphics\_materials\zbeliveau-m-20160805154214_pl.material.bin
 graphics\_materials\zbeliveau-m-20160808135743_pl.material.bin
 graphics\_materials\zbeliveau-m-20160809101841_pl.material.bin
+=======
+graphics\_materials\yzhijie-m-20200104201312.material.bin
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_materials\zhaoxiang-m-20170623145045.material.bin
 graphics\_materials\zhaoxiang-m-20170623145846.material.bin
 graphics\_materials\zhaoxiang-m-20170626165051.material.bin
@@ -1801,7 +1871,10 @@ graphics\_test\objectbank_tetra\olovtsov\layering_kit_01_junctionbox_03.xbg
 graphics\_test\objectbank_tetra\richardbharata\crystal_shader_test_cube_01.xbg
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_d_mips.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_d.xbt
+<<<<<<< HEAD
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_n.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templesmoothwall_01_d_mips.xbt
 graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templesmoothwall_01_d.xbt
@@ -1931,7 +2004,10 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_breakable_01\decal_breakable_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_d.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\misc\rope_tintable_01\rope_tintable_01_n.xbt
@@ -2068,7 +2144,10 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerru
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_floorold_02_b.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\concrete_rough_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\woodplank_refrective_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\bridge\belltower_refrective_01_wall_01_m.xbt
@@ -2086,7 +2165,10 @@ graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\monastery\storeshelves_short_01_m.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b_mips.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n.xbt
 graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\templerailing_floating_01\templerailing_floating_01_m.xbt
 graphics\_tetra_dlc_pagan\world\manmade\objects\generic\shelf_rustic_01.hkx
@@ -2229,7 +2311,10 @@ graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\palmfrond_dead\bio_sta_gen_palmfrond_dead_01_n.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n_mips.xbt
 graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n.xbt
@@ -2537,13 +2622,19 @@ graphics\_tetra_pl_extended\orb\tetra_ply2_orb_expanding_04.xbg
 graphics\_tetra_pl_extended\orb\tetra_ply2_orb_shattered_ref.skeleton
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_b.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_dm_mips.xbt
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_dm.xbt
+<<<<<<< HEAD
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_n.xbt
 graphics\_tetra_pl_extended\prototype\crystals\crystal_6m_01_parallax.xbg
 graphics\_tetra_pl_extended\prototype\crystals\crystal_cluster_60m_02.hkx
@@ -9790,6 +9881,7 @@ graphics\world\vista_locations\fc6_dlc_ext_main\j3\vog-23581-j3-2897081416-90155
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog--388305910-j4-1726893168-9015476914264365.xbg
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog-23107-j4-1462110983-9015538645056150.xbg
 graphics\world\vista_locations\fc6_dlc_ext_main\j4\vog-23108-j4-3670826397-9015476914264365.xbg
+<<<<<<< HEAD
 move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-fakestart.move.bin
 move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-main.move.bin
 move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-end.move.bin
@@ -9829,6 +9921,8 @@ move\decisiontrees\animal\stp\animal_stp_fai_stalking.move.bin
 move\decisiontrees\animal\stp\animal_stp_fai_wallow_end.move.bin
 move\decisiontrees\animal\stp\animal_stp_fai_wallow_start.move.bin
 move\decisiontrees\animal\stp\animal_stp_fai_wallow.move.bin
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 newparticles\27029819343620823.part
 newparticles\7792890254666.part
 newparticles\9015429129679800.part
@@ -14396,3 +14490,364 @@ worlds\fc6_dlc_ext_main\worldmap\bigtexture\world\3\slice_3_39_37.xbt
 worlds\fc6_dlc_ext_main\worldmap\bigtexture\world\3\slice_3_39_38.xbt
 worlds\fc6_dlc_ext_main\worldmap\bigtexture\world\3\slice_3_39_39.xbt
 worlds\fc6_dlc_ext_main\worldmap\bigtexture\world\fallback.xbt
+domino\user\fc6_dlc\fc6_year2\lockeddoorwithpadlock_year2.lockeddoorwithpadlock_year2.lua
+domino\user\fc6_main\openworld\scriptedobjects\yr2_trials_portal.yr2_trials_portal.lua
+domino\user\gym_encounters\dlcy2_lightningstrike.dlcy2_lightningstrike.lua
+domino\user\gym_encounters\structuremotionv2.structuremotionv2.lua
+graphics\_materials\alacharitelefebvre-m-20140511125529.material.bin
+graphics\_materials\alacharitelefebvre-m-20140511165855.material.bin
+graphics\_materials\alacharitelefebvre-m-20140513140549.material.bin
+graphics\_materials\amcaviteno-m-20200520144221.material.bin
+graphics\_materials\amcaviteno-m-20200520144222.material.bin
+graphics\_materials\amcaviteno-m-20200710105130.material.bin
+graphics\_materials\amcaviteno-m-20200710105131.material.bin
+graphics\_materials\amendoza-m-20161013141719.material.bin
+graphics\_materials\arodrigue2-m-20160108114104.material.bin
+graphics\_materials\asideras-m-20210726131317.material.bin
+graphics\_materials\asideras-m-20210726133644.material.bin
+graphics\_materials\asideras-m-20210726140624.material.bin
+graphics\_materials\ccmei-m-20170707145407.material.bin
+graphics\_materials\ccmei-m-20170710110438.material.bin
+graphics\_materials\chenkel-m-20200423103132.material.bin
+graphics\_materials\chenkel-m-20200610124905.material.bin
+graphics\_materials\cjunjie2-m-20200807181511.material.bin
+graphics\_materials\cjunjie2-m-20200807181727.material.bin
+graphics\_materials\dguillon-m-20180814161216.material.bin
+graphics\_materials\dguillon-m-20180816151648.material.bin
+graphics\_materials\dguillon-m-20180920103511.material.bin
+graphics\_materials\dingham-m-20201116105933.material.bin
+graphics\_materials\dmccrea-m-20200826135952.material.bin
+graphics\_materials\dmccrea-m-20200914081141.material.bin
+graphics\_materials\edchan-m-20220915172451.material.bin
+graphics\_materials\edchan-m-20220920160144.material.bin
+graphics\_materials\edchan-m-20220920161751.material.bin
+graphics\_materials\fvallar-m-20200522144641.material.bin
+graphics\_materials\fvallar-m-20200522144712.material.bin
+graphics\_materials\fvallar-m-20200522144742.material.bin
+graphics\_materials\fvallar-m-20200522144837.material.bin
+graphics\_materials\fvallar-m-20200522145204.material.bin
+graphics\_materials\fvallar-m-20200522161510.material.bin
+graphics\_materials\fvallar-m-20200527174135.material.bin
+graphics\_materials\gdominguez-m-20190605125631_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190605125802_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190613174740_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190613175014_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190614113543_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190624175046_r15_pl.material.bin
+graphics\_materials\gdominguez-m-20190705184419_r15_pl.material.bin
+graphics\_materials\hmendoza-m-20200715211841.material.bin
+graphics\_materials\hmendoza-m-20200716135155.material.bin
+graphics\_materials\hmendoza-m-20200716151032.material.bin
+graphics\_materials\hmendoza-m-20200716151202.material.bin
+graphics\_materials\hmendoza-m-20200716151616.material.bin
+graphics\_materials\hmendoza-m-20200716152406.material.bin
+graphics\_materials\hmendoza-m-20200716152414.material.bin
+graphics\_materials\hmendoza-m-20200716152418.material.bin
+graphics\_materials\hmendoza-m-20200727181104.material.bin
+graphics\_materials\hmendoza-m-20200727182226.material.bin
+graphics\_materials\hmendoza-m-20200727182427.material.bin
+graphics\_materials\hmendoza-m-20200727182538.material.bin
+graphics\_materials\hmendoza-m-20200728174455.material.bin
+graphics\_materials\hmendoza-m-20200728180906.material.bin
+graphics\_materials\hmendoza-m-20200728180913.material.bin
+graphics\_materials\hmendoza-m-20200731164956.material.bin
+graphics\_materials\hmendoza-m-20200813153350.material.bin
+graphics\_materials\hmendoza-m-20200813175623.material.bin
+graphics\_materials\hmendoza-m-20200818171054.material.bin
+graphics\_materials\htong2-m-20170817120929.material.bin
+graphics\_materials\hyang-m-20160330145234.material.bin
+graphics\_materials\hyang-m-20160330150450.material.bin
+graphics\_materials\hyang-m-20160401164557.material.bin
+graphics\_materials\hyang-m-20160715160831.material.bin
+graphics\_materials\ipulido-m-20220728103557.material.bin
+graphics\_materials\ipulido-m-20220823155033.material.bin
+graphics\_materials\jawong-m-20220307165142.material.bin
+graphics\_materials\jawong-m-20220310132430.material.bin
+graphics\_materials\jawong-m-20220602135728.material.bin
+graphics\_materials\jawong-m-20220624140742.material.bin
+graphics\_materials\jawong-m-20220626165318.material.bin
+graphics\_materials\jbatt-m-20220607132627.material.bin
+graphics\_materials\jbatt-m-20220615143120.material.bin
+graphics\_materials\jlee-m-20220315135108.material.bin
+graphics\_materials\jlee-m-20220804221658.material.bin
+graphics\_materials\jliang-m-20190726104508.material.bin
+graphics\_materials\jonasaxelsson-m-20170112133209.material.bin
+graphics\_materials\jpark4-m-20220707151432.material.bin
+graphics\_materials\jsullivan-m-20201214125744.material.bin
+graphics\_materials\jsullivan-m-20201214134433.material.bin
+graphics\_materials\jsullivan-m-20210505105407.material.bin
+graphics\_materials\jsullivan-m-20210510121521.material.bin
+graphics\_materials\jsullivan-m-20210528091953.material.bin
+graphics\_materials\jtan-m-20170510170653.material.bin
+graphics\_materials\lminghong-m-20160510180611.material.bin
+graphics\_materials\lminghong-m-20161017155510.material.bin
+graphics\_materials\mbaillargeon2-m-20161017085849.material.bin
+graphics\_materials\mgoulet2-m-20160325153328_pl.material.bin
+graphics\_materials\mgoulet2-m-20161028092458.material.bin
+graphics\_materials\mgoulet2-m-20200529133501.material.bin
+graphics\_materials\mkang-m-20180814093035_ud_pl.material.bin
+graphics\_materials\mkang-m-20180814093826_ud_pl.material.bin
+graphics\_materials\mkang-m-20180814101853_ud_pl.material.bin
+graphics\_materials\mkang-m-20180814102942_ud_pl.material.bin
+graphics\_materials\mkang-m-20180815103047_ud_pl.material.bin
+graphics\_materials\mkang-m-20180815174102_ud_pl.material.bin
+graphics\_materials\mkang-m-20200712202726.material.bin
+graphics\_materials\mkang-m-20200712222748.material.bin
+graphics\_materials\mkang-m-20200713012518.material.bin
+graphics\_materials\mkang-m-20201030143445_r15_pl.material.bin
+graphics\_materials\mkang-m-20210505103020.material.bin
+graphics\_materials\mkang-m-20210505104815.material.bin
+graphics\_materials\mkang-m-20210505124150.material.bin
+graphics\_materials\mkang-m-20210505134538.material.bin
+graphics\_materials\mkang-m-20210506142535.material.bin
+graphics\_materials\mkang-m-20210506143401.material.bin
+graphics\_materials\mkang-m-20210506153100.material.bin
+graphics\_materials\mroy2-m-20160113155146.material.bin
+graphics\_materials\mroy2-m-20160113163704.material.bin
+graphics\_materials\mroy2-m-20160301131510.material.bin
+graphics\_materials\mroy2-m-20160315103632.material.bin
+graphics\_materials\mschanz-m-20200113131127.material.bin
+graphics\_materials\mschanz2-m-20201103115111.material.bin
+graphics\_materials\mschanz2-m-20201123114657.material.bin
+graphics\_materials\nfortin-m-20130913183058.material.bin
+graphics\_materials\olovtsov-m-20201215102136.material.bin
+graphics\_materials\qzhou-m-20190731111628.material.bin
+graphics\_materials\richardbharata-m-20220419154627.material.bin
+graphics\_materials\rrestrepo-m-20190415122232.material.bin
+graphics\_materials\rrestrepo-m-20190426134922.material.bin
+graphics\_materials\rrestrepo-m-20190429122310.material.bin
+graphics\_materials\rthormann-m-20210217100514.material.bin
+graphics\_materials\rthormann-m-20210222160553.material.bin
+graphics\_materials\saldarraji-m-20200729132711_pl.material.bin
+graphics\_materials\sbeaulieu-m-20130430131709.material.bin
+graphics\_materials\scontreras-m-20200129180342_pl.material.bin
+graphics\_materials\sparling-m-20210519140535.material.bin
+graphics\_materials\svarma-m-20220504125012.material.bin
+graphics\_materials\svarma-m-20220714175307.material.bin
+graphics\_materials\svarma-m-20220727102754.material.bin
+graphics\_materials\svarma-m-20220815145455.material.bin
+graphics\_materials\svarma-m-20220815153926.material.bin
+graphics\_materials\svarma-m-20220816113352.material.bin
+graphics\_materials\svarma-m-20220819120811.material.bin
+graphics\_materials\svarma-m-20220822105842.material.bin
+graphics\_materials\tmills-m-20170425142905.material.bin
+graphics\_materials\tmills-m-20210818142333.material.bin
+graphics\_materials\tmills-m-20210818142745.material.bin
+graphics\_materials\tmills-m-20210818142746.material.bin
+graphics\_materials\tmills-m-20210818143249.material.bin
+graphics\_materials\tmills-m-20211001112101.material.bin
+graphics\_materials\trichter-m-20200303114249_r7_pl.material.bin
+graphics\_materials\ttwang-m-20200929113548.material.bin
+graphics\_materials\vgruse-m-20200810142721.material.bin
+graphics\_materials\vgruse-m-20200810142721_r7_pl.material.bin
+graphics\_materials\wxilin-m-20190920163016.material.bin
+graphics\_materials\wxilin-m-20190920181640.material.bin
+graphics\_materials\wxilin-m-20190920184434.material.bin
+graphics\_materials\wxilin-m-20190923100346.material.bin
+graphics\_materials\wxilin-m-20200515135036.material.bin
+graphics\_materials\xyzhu-m-20170817102529.material.bin
+graphics\_materials\yfan2-m-20170929100621.material.bin
+graphics\_materials\yjfan-m-20200415180058.material.bin
+graphics\_materials\yjfan-m-20210112150346.material.bin
+graphics\_materials\yjfan-m-20210112170112.material.bin
+graphics\_materials\yliu5-m-20181008102217.material.bin
+graphics\_materials\yliu5-m-20181008102651.material.bin
+graphics\_materials\yliu5-m-20181008103303.material.bin
+graphics\_materials\yliu5-m-20181008103445.material.bin
+graphics\_materials\yliu5-m-20181008104125.material.bin
+graphics\_materials\yliu5-m-20181024210815.material.bin
+graphics\_materials\ymei-m-20191224152747.material.bin
+graphics\_materials\ymei-m-20191224153413.material.bin
+graphics\_materials\ymei-m-20191225164442.material.bin
+graphics\_materials\yotsu-m-20140218161548.material.bin
+graphics\_materials\yotsu-m-20220526141018.material.bin
+graphics\_materials\yotsu-m-20220908103702.material.bin
+graphics\_materials\yotsu-m-20220912134104.material.bin
+graphics\_materials\yqyang-m-20200519143536.material.bin
+graphics\_materials\yqzhou2-m-20201117155402.material.bin
+graphics\_materials\yyma-m-20200529104257.material.bin
+graphics\_materials\yyma-m-20200611133455.material.bin
+graphics\_materials\yzhao3-m-20190314171846.material.bin
+graphics\_materials\yzhao3-m-20190314173428.material.bin
+graphics\_materials\yzhao3-m-20200821110414.material.bin
+graphics\_materials\zbeliveau-m-20160805152856_pl.material.bin
+graphics\_materials\zbeliveau-m-20160805153749_pl.material.bin
+graphics\_materials\zbeliveau-m-20160805154214_pl.material.bin
+graphics\_materials\zbeliveau-m-20160808135743_pl.material.bin
+graphics\_materials\zbeliveau-m-20160809101841_pl.material.bin
+graphics\_materials\zli-m-20160324160211.material.bin
+graphics\_materials\zli-m-20160325170812.material.bin
+graphics\_materials\zli-m-20160427141311.material.bin
+graphics\_materials\zwang-m-20200708154359.material.bin
+graphics\_materials\zwang-m-20200713153707.material.bin
+graphics\_test\sha_tetra_test\_textures\manmadespecific\structures\temple\templerockconcrete_01_n_mips.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_common_patten_01_n_mips.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_01_n_mips.xbt
+graphics\_tetra_dlc_common\biomes\natural\_textures\bio_rk_detailb_02_n_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\belltowerruins\dirt_mask_01_m_mips.xbt
+graphics\_tetra_dlc_pagan\world\_textures\manmadespecific\structures\residential\royalpalace\ground_soil_01_n_mips.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\lava\bio_rk_lava_med_04_n_mips.xbt
+graphics\_tetra_dlc_vaas\biomes\natural\_textures\rocks\volcano\bio_rk_lava_med_01_n_mips.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_b_mips.xbt
+graphics\_tetra_dlc_vaas\biomes\vegetation\_textures\rootclumps\bio_sta_gen_root_clumps_01_n_mips.xbt
+graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cininnerlayer_01_n_mips.xbt
+graphics\_tetra_pl_extended\orb\workingfiles\crystalcore\gp_orb_cinouterlayer_01_n_mips.xbt
+graphics\tetra_proto\test\bullshark_test.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c1\vog-7071-c1-3662205169-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c1\vog-7071-c1-3662205169-9015476914264365.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog--639717739-c2-3810491979-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog--65441943-c2-569267205-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog--663742621-c2-1916198603-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog--663742621-c2-1916198603-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7073-c2-1605431870-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7073-c2-1605431870-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7074-c2-2777481577-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7234-c2-708002034-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7393-c2-1460767812-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\c2\vog-7554-c2-3869228031-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d2\vog--1017636444-d2-1124164655-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-1990217032-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-3000726274-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-309562470-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-3097392863-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-3342861937-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-3350014475-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-4171942475-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-4180634430-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-33-d3-779239561-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-1543524885-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-1610718970-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-2329467095-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-2338159010-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-3039958253-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-3051305111-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-3232326046-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-3404489795-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8695-d3-80895956-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-1253912178-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-1539565121-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-2690934879-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-3392632937-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-3927298326-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-627092680-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8696-d3-670863954-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-1279767478-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-1596758729-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-1801763295-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-2116422859-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-2988800788-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-3337504312-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-3890532410-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-4070991150-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8855-d3-736602085-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-1176340408-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-1708417545-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-1739337248-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-1954298053-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-2240471955-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-2311307683-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-2344324490-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-2603347044-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-2805483213-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-3049700081-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-3082745560-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-362380079-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-3650817092-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-3850938093-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-3972833449-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-4004834432-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-400635654-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-625529325-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-657497540-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-695707663-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-722461734-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-771149932-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-78473112-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-797875269-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-919394533-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-942602623-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-945938478-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8856-d3-974760967-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-1132999406-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-1328535148-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-2160725506-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-2219538017-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-2316059562-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-2535813737-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-3135105384-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-3398496334-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-3450888507-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-3738912836-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-3971675961-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-4193796653-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-444737718-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-549028070-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-646403044-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-8857-d3-831298789-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-9016-d3-1593805893-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-9016-d3-2277396110-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-9016-d3-2466053018-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-9016-d3-3019271576-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d3\vog-9016-d3-967764644-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\d7\vog-9721-d7-204628404-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1178982874-e2-1222135187-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1197010268-e2-3053794049-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1693981424-e2-3053794811-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1693981424-e2-3053794811-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1818219639-e2-2585507030-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--1818219639-e2-2585507030-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog--222295166-e2-2014710056-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11234-e2-2254088089-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11237-e2-4128403120-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11394-e2-21338232-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11394-e2-21338232-9015476914264365.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11394-e2-21338232-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11394-e2-21338232-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11395-e2-2919303743-9015393310772068.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11395-e2-2919303743-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\e2\vog-11395-e2-2919303743-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\g3\vog--1681400581-g3-2027152486-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\g3\vog--497372253-g3-2786619350-9015524853529630.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\g3\vog-15733-g3-3261855459-9015538645056150.xbg
+graphics\world\vista_locations\fc6_dlc_ext_main\g3\vog-15734-g3-945161652-9015524853529630.xbg
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-punchwall_fai_01-main.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-restheadonwall_fai_01-start.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\crisis\crisis-shakehead_sit_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\fighter\guard\guard-idleblessed_st_noweap_loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\fighter\guard\guard-idlecautious_potthreat-st_shotgun_fighter-m-deputy_loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\guard\aistp_guard-readytofight__shovel_lem0020npc_01-start.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\crisis-cry_sit_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-end.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-fakestart.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-fetalposition_gr_fai_01-loop.move.bin
+move\decisiontrees\ai\stp\simpleanimation\rest\rest-hoveringidle_fai_01-main.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_dig.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_happy.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_howl.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_abort.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_liedown_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_shake.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_abort.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sit_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_sniff.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_stalking_start.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow_end.move.bin
+move\decisiontrees\animal\stp\animal_stp_fai_wallow_start.move.bin

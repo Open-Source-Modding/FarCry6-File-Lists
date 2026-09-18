@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ; 2490/2490 (100%)
+=======
+; 2471/2490 (99%)
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 ; 170 not in parent
 graphics\_common\_textures\characters\animals\_trophies\anml_tro_antler_caribou_01\anml_tro_antler_caribou_01_b_mips.xbt
 graphics\_common\_textures\characters\animals\_trophies\anml_tro_antler_caribou_01\anml_tro_antler_caribou_01_b.xbt
@@ -27,7 +31,10 @@ graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_
 graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_c.xbt
 graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_m_mips.xbt
 graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_m.xbt
+<<<<<<< HEAD
 graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_n.xbt
 graphics\_common\characters\fc5\wardrobe\_patternlibrary\details\detailbodyskin_01_f_d_mips.xbt
 graphics\_common\characters\fc5\wardrobe\_patternlibrary\details\detailbodyskin_01_f_d.xbt
@@ -132,13 +139,19 @@ graphics\_common\characters\fc6\animals\anml_cattle_basic\_textures\anml_fc6_cat
 graphics\_common\characters\fc6\animals\anml_cattle_basic\_textures\anml_fc6_cattle_basic_dlc3cow\anml_cattle_basic_dairy_n.xbt
 graphics\_common\characters\fc6\animals\anml_cattle_bison\_textures\anml_cattle_bison_american_m_mips.xbt
 graphics\_common\characters\fc6\animals\anml_cattle_bison\_textures\anml_cattle_bison_american_m.xbt
+<<<<<<< HEAD
 graphics\_common\characters\fc6\animals\anml_cattle_bison\_textures\anml_cattle_bison_american_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_common\characters\fc6\animals\anml_cattle_bison\_textures\anml_cattle_bison_american_n.xbt
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_b_mips.xbt
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_b.xbt
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_m_mips.xbt
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_m.xbt
+<<<<<<< HEAD
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_n.xbt
 graphics\_common\characters\fc6\animals\anml_dlc_baby\_textures\dlc_baby_clot_b_mips.xbt
 graphics\_common\characters\fc6\animals\anml_dlc_baby\_textures\dlc_baby_clot_b.xbt
@@ -311,7 +324,10 @@ graphics\_tetra_dlc_common\biomes\vegetation\_textures\lushgrass\bio_gr_gen_lush
 graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_f.xbt
 graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_m_mips.xbt
 graphics\_tetra_dlc_common\gameplay\_texture\dlc_playercropse_m.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_common\manmade\_textures\mask_dirt_01_tm_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_common\manmade\_textures\mask_dirt_01_tm.xbt
 graphics\_tetra_dlc_common\manmade\_textures\reimport_carpet_monastery_depleur_02_b_mips.xbt
 graphics\_tetra_dlc_common\manmade\_textures\reimport_carpet_monastery_depleur_02_b.xbt
@@ -360,11 +376,17 @@ graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_corruption_03_
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_corruption_03_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_b.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_n_mips.xbt
+=======
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_n.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_b_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_b.xbt
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_02_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_02_b.xbt
@@ -396,7 +418,10 @@ graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_na
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_narrow_01_a.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_silt_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_silt_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_silt_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_silt_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_white_cobblestones_01_a_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_white_cobblestones_01_a.xbt
@@ -508,7 +533,10 @@ graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchm
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_b.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_m_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_m.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_01\bio_rk_pile_generic_01_m_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_pile_generic_01\bio_rk_pile_generic_01_m.xbt
@@ -762,7 +790,10 @@ graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderos
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_b.xbt
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_m.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_n.xbt
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_leaf_b_mips.xbt
 graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_leaf_b.xbt
@@ -1166,7 +1197,10 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_logo_cult_
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\decals\decal_logo_cult_sinnermarked_01\reimport_decal_logo_cult_sinnermarked_01_a.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_d.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soilflat_01_n_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soilflat_01_n.xbt
@@ -1298,7 +1332,10 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\co
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_b_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_b.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_mat.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_singlecell_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_singlecell_01_b.xbt
@@ -1502,7 +1539,10 @@ graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\residentia
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\residential\house\hut_medium_01\hut_medium_01_m.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\cin_bridge_concrete_fill_01_b_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\cin_bridge_concrete_fill_01_b.xbt
+<<<<<<< HEAD
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\cin_bridge_concrete_fill_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\cin_bridge_concrete_fill_01_n.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\statue_father_effigy_01_decal_concretebroken_02_b_mips.xbt
 graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\statue_father_effigy_01_decal_concretebroken_02_b.xbt
@@ -1540,7 +1580,10 @@ graphics\biomes\nature\_textures\caves\bio_cav_stairs_rocks_m_mips.xbt
 graphics\biomes\nature\_textures\caves\bio_cav_stairs_rocks_m.xbt
 graphics\biomes\nature\_textures\caves\bio_cav_stairs_rocks_n_mips.xbt
 graphics\biomes\nature\_textures\caves\bio_cav_stairs_rocks_n.xbt
+<<<<<<< HEAD
 graphics\biomes\nature\_textures\decals\bio_dl_generic_rock_03_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\biomes\nature\_textures\decals\bio_dl_generic_rock_03_n.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_generic_tilled_field_01_m_mips.xbt
 graphics\biomes\nature\_textures\decals\bio_dl_generic_tilled_field_01_m.xbt
@@ -1575,7 +1618,10 @@ graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_gravel_01_n_mips.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_gravel_01_n.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_silt_01_d_mips.xbt
 graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_silt_01_d.xbt
+<<<<<<< HEAD
 graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_silt_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_silt_01_n.xbt
 graphics\biomes\nature\_textures\rocks\bio_generic_soil_01_d_mips.xbt
 graphics\biomes\nature\_textures\rocks\bio_generic_soil_01_d.xbt
@@ -1603,7 +1649,10 @@ graphics\cinematic\cinematics_texture\cin_book_bible_01_s_mips.xbt
 graphics\cinematic\cinematics_texture\cin_book_bible_01_s.xbt
 graphics\cinematic\cinematics_texture\cin_bridge_concrete_fill_01_d_mips.xbt
 graphics\cinematic\cinematics_texture\cin_bridge_concrete_fill_01_d.xbt
+<<<<<<< HEAD
 graphics\cinematic\cinematics_texture\cin_bridge_concrete_fill_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\cinematic\cinematics_texture\cin_bridge_concrete_fill_01_n.xbt
 graphics\cinematic\cinematics_texture\cin_musicbox_metal_01_b_mips.xbt
 graphics\cinematic\cinematics_texture\cin_musicbox_metal_01_b.xbt
@@ -1902,7 +1951,10 @@ graphics\world\_textures\manmadeshared\misc\misc_wicker_01\misc_wicker_01_n_mips
 graphics\world\_textures\manmadeshared\misc\misc_wicker_01\misc_wicker_01_n.xbt
 graphics\world\_textures\manmadeshared\nature\grass_intermountain_01\grass_intermountain_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\nature\grass_intermountain_01\grass_intermountain_01_d.xbt
+<<<<<<< HEAD
 graphics\world\_textures\manmadeshared\nature\grass_intermountain_01\grass_intermountain_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\world\_textures\manmadeshared\nature\grass_intermountain_01\grass_intermountain_01_n.xbt
 graphics\world\_textures\manmadeshared\nature\hay_01\hay_01_b_mips.xbt
 graphics\world\_textures\manmadeshared\nature\hay_01\hay_01_b.xbt
@@ -1938,7 +1990,10 @@ graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01
 graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_d.xbt
 graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_m_mips.xbt
 graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_m.xbt
+<<<<<<< HEAD
 graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_n.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_01\stonewall_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_01\stonewall_01_d.xbt
@@ -1946,7 +2001,10 @@ graphics\world\_textures\manmadeshared\stones\stonewall_01\stonewall_01_n_mips.x
 graphics\world\_textures\manmadeshared\stones\stonewall_01\stonewall_01_n.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_02\stonewall_02_d_mips.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_02\stonewall_02_d.xbt
+<<<<<<< HEAD
 graphics\world\_textures\manmadeshared\stones\stonewall_02\stonewall_02_n_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\world\_textures\manmadeshared\stones\stonewall_02\stonewall_02_n.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_argilite_large_rough_02\stonewall_argilite_large_rough_02_d_mips.xbt
 graphics\world\_textures\manmadeshared\stones\stonewall_argilite_large_rough_02\stonewall_argilite_large_rough_02_d.xbt
@@ -1966,7 +2024,10 @@ graphics\world\_textures\manmadeshared\stones\stonewall_tilecut_irregular_02\sto
 graphics\world\_textures\manmadeshared\stones\stonewall_tilecut_irregular_02\stonewall_tilecut_irregular_02_n.xbt
 graphics\world\_textures\manmadeshared\transition_mask\distancefield_donotuse\df_metal_mask_01_d_mips.xbt
 graphics\world\_textures\manmadeshared\transition_mask\distancefield_donotuse\df_metal_mask_01_d.xbt
+<<<<<<< HEAD
 graphics\world\_textures\manmadeshared\transition_mask\metal_test_red_mips.xbt
+=======
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
 graphics\world\_textures\manmadeshared\transition_mask\metal_test_red.xbt
 graphics\world\_textures\manmadeshared\woods\mega_woodbeam_01\mega_woodbeam_01_painted_n_mips.xbt
 graphics\world\_textures\manmadeshared\woods\mega_woodbeam_01\mega_woodbeam_01_painted_n.xbt
@@ -2490,3 +2551,25 @@ graphics\world\_textures\vistalocations\vog-m-3440666974-e5-atlas_d.xbt
 graphics\world\_textures\vistalocations\vog-m-3641858261-a0-atlas_d.xbt
 worlds\fc6_dlc_joseph\worldmap\bigtexture\narrative\fallback.xbt
 worlds\fc6_dlc_joseph\worldmap\bigtexture\world\fallback.xbt
+<<<<<<< HEAD
+=======
+graphics\_common\characters\fc5\animals\anml_cattle_bison\_textures\anml_cattle_bison_american\anml_cattle_bison_american_n_mips.xbt
+graphics\_common\characters\fc6\animals\anml_cattle_bison\_textures\anml_cattle_bison_american_n_mips.xbt
+graphics\_common\characters\fc6\animals\anml_deer_elk\_textures\anml_deer_elk_american_n_mips.xbt
+graphics\_tetra_dlc_common\manmade\_textures\mask_dirt_01_tm_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_flagstones_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\decals\bio_dl_generic_pebbles_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\roads\bio_rd_trail_hiking_silt_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\natural\_textures\rocks\bio_rk_mountain_benchmark_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\biomes\vegetation\_textures\ponderosa\bio_tr_ponderosa_hero_bark_02_n_mips.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadeshared\dirts\ground_soil_01\ground_soil_01_n_mips.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\objects\corruption\corruption_i_wall_radial_components_n_mips.xbt
+graphics\_tetra_dlc_joseph\world\_textures\manmadespecific\structures\statue\cin_bridge_concrete_fill_01_n_mips.xbt
+graphics\biomes\nature\_textures\decals\bio_dl_generic_rock_03_n_mips.xbt
+graphics\biomes\nature\_textures\roads\bio_rd_trail_hiking_silt_01_n_mips.xbt
+graphics\cinematic\cinematics_texture\cin_bridge_concrete_fill_01_n_mips.xbt
+graphics\world\_textures\manmadeshared\nature\grass_intermountain_01\grass_intermountain_01_n_mips.xbt
+graphics\world\_textures\manmadeshared\stones\stonestacked_sediment_irregular_01\stonestacked_sediment_irregular_01_n_mips.xbt
+graphics\world\_textures\manmadeshared\stones\stonewall_02\stonewall_02_n_mips.xbt
+graphics\world\_textures\manmadeshared\transition_mask\metal_test_red_mips.xbt
+>>>>>>> 20b067a (merge: add Gibbed-only filelists + union names from Gibbed)
